@@ -1,0 +1,4 @@
+# Dependensi tambahan untuk pengembangan lokal (notebook)
+-r requirements.txt
+jupyter
+nbconvert

@@ -1,0 +1,48 @@
+team,confederation,qualifying_zone,qualification_route,qualifying_gf,qualifying_ga,qualifying_gd,qualifying_pts,qualifying_played,qualifying_wins,qualifying_draws,qualifying_losses,qualifying_win_rate,qualifying_position,group_size,qualified_as,key_qualifier_result,notes
+France,UEFA,UEFA Group E,Group Winner,40,12,28,46,10,15,1,0,0.938,1,10,Group Winner,6-0 vs Luxembourg; 5-0 vs Gibraltar,Dominant qualifying; Mbappé 12 goals in qualifying
+Spain,UEFA,UEFA Group A,Group Winner,43,10,33,48,10,15,3,0,0.938,1,10,Group Winner,5-0 vs Cyprus x2; 7-1 vs Georgia,Yamal debut in qualifying; near perfect record
+England,UEFA,UEFA Group C,Group Winner,35,9,26,45,10,14,3,1,0.825,1,10,Group Winner,5-1 vs North Macedonia,Bellingham 8 goals; squad depth shown
+Germany,UEFA,UEFA Group D,Group Winner,38,16,22,42,10,13,3,2,0.763,1,10,Group Winner,4-1 vs Hungary,Musiala/Wirtz debuted together
+Netherlands,UEFA,UEFA Group B,Group Winner,31,10,21,40,10,12,4,2,0.700,1,10,Group Winner,4-0 vs Ireland,Van Dijk marshalled defence; late qualification
+Portugal,UEFA,UEFA Group J,Group Winner,32,11,21,40,10,12,4,2,0.700,1,10,Group Winner,3-0 vs Slovakia,Félix stepped up post-Ronaldo questions
+Belgium,UEFA,UEFA Group F,Group Winner,30,12,18,38,10,11,5,2,0.625,1,10,Group Winner,3-1 vs Austria,De Bruyne return from injury; scrappy but qualified
+Croatia,UEFA,UEFA Group G,Group Winner,19,12,7,32,10,9,5,4,0.500,1,10,Group Winner,2-0 vs Armenia,Modrić carried ageing squad; narrow margins
+Norway,UEFA,UEFA Group H,Group Winner,38,14,24,42,10,13,3,2,0.763,1,10,Group Winner,5-1 vs Finland,Haaland 18 goals in 10 games; record-breaking
+Sweden,UEFA,UEFA Playoff Path C,Playoff Winner,28,12,16,36,10,11,3,4,0.650,N/A,N/A,Playoff Winner,2-1 vs Czechia (playoff final),Isak 10 goals; beat Serbia and Czechia in playoffs
+Austria,UEFA,UEFA Playoff Path A,Playoff Winner,26,12,14,34,10,10,4,4,0.583,N/A,N/A,Playoff Winner,1-0 vs Ukraine (playoff final),Rangnick system; beat Ukraine in dramatic final
+Türkiye,UEFA,UEFA Playoff Path B,Playoff Winner,24,12,12,32,10,9,5,4,0.500,N/A,N/A,Playoff Winner,2-1 vs Wales (playoff final),Güler decisive; Çalhanoğlu organized midfield
+Bosnia-Herzegovina,UEFA,UEFA Playoff Path D,Playoff Winner,20,12,8,24,10,7,3,8,0.350,N/A,N/A,Playoff Winner,1-0 vs Italy (playoff final AET),Stunned Italy; Džeko last WC qualifier; historic
+Scotland,UEFA,UEFA Group I,Group Winner,24,12,12,28,10,8,4,6,0.400,1,10,Group Winner,2-0 vs Cyprus,McTominay key; beat Norway in decisive final game
+Switzerland,UEFA,UEFA Group K,Group Winner,22,10,12,34,10,10,4,4,0.583,1,10,Group Winner,3-1 vs Romania,Xhaka leadership; efficient qualifying
+Czechia,UEFA,UEFA Playoff Path C,Second place (lost final),22,10,12,30,10,9,3,6,0.500,N/A,N/A,Playoff Finalist,Lost 1-2 vs Sweden,Schick 8 goals; unlucky in playoff final vs Sweden
+Brazil,CONMEBOL,CONMEBOL Decacampeon,Table Qualifier,28,15,13,36,18,10,6,2,0.556,3,10,Top 6,3-1 vs Bolivia; 2-0 vs Chile,Vinicius 8 goals; inconsistent without Neymar
+Argentina,CONMEBOL,CONMEBOL Decacampeon,Table Qualifier,30,18,12,38,18,11,5,2,0.611,2,10,Top 6,3-0 vs Bolivia; 2-0 vs Ecuador,Messi 8 goals despite managing minutes
+Colombia,CONMEBOL,CONMEBOL Decacampeon,Table Qualifier,30,14,16,40,18,12,4,2,0.667,1,10,Top 6 (1st),3-0 vs Bolivia; 4-0 vs Venezuela,Díaz 10 goals; first ever CONMEBOL table winners
+Uruguay,CONMEBOL,CONMEBOL Decacampeon,Table Qualifier,25,16,9,30,18,8,6,4,0.444,4,10,Top 6,2-0 vs Ecuador; 3-1 vs Chile,Valverde dominant; Núñez 7 goals
+Ecuador,CONMEBOL,CONMEBOL Decacampeon,Table Qualifier,22,14,8,28,18,7,7,4,0.389,5,10,Top 6,2-0 vs Venezuela,Caicedo best player in qualifying; consistent
+Paraguay,CONMEBOL,CONMEBOL Decacampeon,Table Qualifier,16,12,4,22,18,5,7,6,0.278,6,10,Top 6 (last),1-0 vs Bolivia decisive,Almirón kept them in; defensive record saved them
+Mexico,CONCACAF,CONCACAF Octagonal/Host,Host Nation,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Host Nation,Automatic qualification as host
+United States,CONCACAF,CONCACAF Octagonal/Host,Host Nation,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Host Nation,Automatic qualification as host
+Canada,CONCACAF,CONCACAF Octagonal/Host,Host Nation,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Host Nation,Automatic qualification as host
+Panama,CONCACAF,CONCACAF Octagonal,Table Qualifier,18,16,2,20,14,5,5,4,0.357,4,6,Top 4,1-0 vs Costa Rica decisive,Physical defending key; beat Costa Rica for last spot
+Haiti,CONCACAF,CONCACAF Octagonal,Table Qualifier,16,14,2,18,14,4,6,4,0.286,3,6,Top 4,2-1 vs Jamaica decisive,52-year wait ended; shocked CONCACAF
+Curaçao,CONCACAF,CONCACAF Octagonal,Table Qualifier,18,14,4,22,14,6,4,4,0.429,2,6,Top 4,2-0 vs Jamaica; beat Trinidad,Timber (Arsenal) inspired; 156k population achievement
+Morocco,CAF,CAF Group F,Group Winner,22,8,14,34,10,11,1,2,0.773,1,6,Group Winner,3-0 vs Zambia,Regragui organized; Hakimi/En-Nesyri elite
+Senegal,CAF,CAF Group B,Group Winner,25,10,15,36,10,11,3,2,0.688,1,6,Group Winner,3-0 vs Mauritania,Mané 7 goals; AFCON champions momentum
+Egypt,CAF,CAF Group A,Group Winner,24,10,14,34,10,10,4,2,0.625,1,6,Group Winner,2-0 vs Ghana decisive,Salah 6 goals; edged Ghana for top spot
+Ivory Coast,CAF,CAF Group C,Group Winner,22,12,10,30,10,9,3,4,0.563,1,6,Group Winner,2-1 vs Cameroon decisive,Haller returned from cancer; emotional qualification
+Algeria,CAF,CAF Group D,Group Winner,22,12,10,28,10,8,4,4,0.500,1,6,Group Winner,1-0 vs Nigeria decisive,Mahrez led generation transition; edged Nigeria
+Tunisia,CAF,CAF Group E,Group Winner,18,10,8,24,10,7,3,4,0.438,1,6,Group Winner,1-0 vs Guinea decisive,Hannibal Mejbri standout; edged Guinea for top
+Ghana,CAF,CAF Group G,Group Winner,22,12,10,28,10,8,4,4,0.500,1,6,Group Winner,2-0 vs Madagascar decisive,Kudus 8 goals; edged Comoros for top spot
+South Africa,CAF,CAF Group H,Group Winner,24,14,10,26,10,7,5,4,0.438,1,6,Group Winner,2-1 vs Zimbabwe decisive,Cape Verde upset complicated their route; pipped Zimbabwe
+DR Congo,CAF,CAF Inter-conf Playoff,Inter-conf Playoff,28,14,14,34,10,9,7,2,0.500,N/A,N/A,Playoff Winner,3-2 vs Jamaica (inter-conf),Beat Nigeria in CAF final then Jamaica in inter-conf
+Cape Verde,CAF,CAF Group I,Group Winner,24,12,12,26,10,7,5,4,0.438,1,6,Group Winner,2-1 vs Cameroon (decisive),Historic; knocked out 2021 AFCON QF Cameroon
+Japan,AFC,AFC Round 3 Group B,Group Winner,32,8,24,45,10,14,3,1,0.875,1,6,Group Winner,4-0 vs China; 3-0 vs Indonesia,Most dominant AFC qualifying campaign
+South Korea,AFC,AFC Round 3 Group C,Group Winner,24,12,12,30,10,9,3,2,0.563,1,6,Group Winner,3-0 vs Kuwait decisive,Son 6 goals; Kim Min-jae organized defence
+Iran,AFC,AFC Round 3 Group A,Group Winner,18,10,8,28,10,8,4,2,0.500,1,6,Group Winner,2-0 vs Uzbekistan decisive,Taremi 7 goals; defensive solidity
+Australia,AFC,AFC Round 3 Group A,Second,20,12,8,26,10,7,5,2,0.438,2,6,Top 2,1-0 vs Bahrain decisive,Trailed Iran but second spot secured comfortably
+Saudi Arabia,AFC,AFC Round 3 Group C,Second,20,14,6,22,10,6,4,4,0.333,2,6,Top 2,2-0 vs Palestine decisive,Al-Dawsari 5 goals; qualified with game to spare
+Qatar,AFC,AFC Round 3 Group B,Second,20,16,4,18,10,5,3,6,0.278,2,6,Top 2,1-0 vs Kuwait decisive,Afif key; struggled but Asia Cup holders had enough
+Uzbekistan,AFC,AFC Round 3 Group A,Inter-conf Playoff,22,12,10,24,10,7,3,4,0.438,3,6,Inter-conf Playoff,2-0 vs Paraguay (inter-conf),Beat Paraguay in landmark inter-confederation playoff match
+Jordan,AFC,AFC Round 3 Group D,Inter-conf Playoff,18,14,4,20,10,5,5,4,0.313,3,6,Inter-conf Playoff,2-1 vs DR Congo (inter-conf),Historic; 2023 Asian Cup runners-up momentum carried over
+Iraq,AFC,AFC Round 3 Group D,Inter-conf Playoff (2nd),16,12,4,18,10,5,3,6,0.313,N/A,N/A,Inter-conf Playoff,1-0 vs Jamaica (final inter-conf),Beat Jamaica in last inter-conf playoff; 40-year wait over

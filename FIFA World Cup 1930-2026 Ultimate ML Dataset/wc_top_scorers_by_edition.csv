@@ -1,0 +1,72 @@
+wc_year,rank,player,team,goals,assists,penalties_scored,matches_played,goals_per_game,position,won_tournament,notes
+1930,1,Guillermo Stábile,Argentina,8,0,0,4,2.00,Forward,No,Still record for a debut WC tournament
+1930,2,Pedro Cea,Uruguay,5,0,0,4,1.25,Forward,Yes,
+1930,3,Bert Patenaude,United States,3,0,0,3,1.00,Forward,No,First WC hat-trick ever
+1934,1,Oldřich Nejedlý,Czechoslovakia,5,0,0,4,1.25,Forward,No,
+1934,2,Angelo Schiavio,Italy,4,0,0,4,1.00,Forward,Yes,
+1934,3,Edmund Conen,Germany,4,0,0,3,1.33,Forward,No,
+1938,1,Leônidas,Brazil,7,0,0,4,1.75,Forward,No,O Diamante Negro; refused to play semi-final to rest for final
+1938,2,Gyula Zsengellér,Hungary,7,0,0,4,1.75,Forward,No,
+1938,3,Silvio Piola,Italy,5,0,0,4,1.25,Forward,Yes,
+1950,1,Ademir,Brazil,9,0,0,6,1.50,Forward,No,Maracanazo victim
+1950,2,Zarra,Spain,6,0,0,4,1.50,Forward,No,
+1950,3,Chico,Brazil,5,0,0,6,0.83,Forward,No,
+1954,1,Sándor Kocsis,Hungary,11,0,0,5,2.20,Forward,No,Golden Head; scored 2 hat-tricks
+1954,2,Erich Probst,Austria,6,0,0,5,1.20,Forward,No,
+1954,3,Max Morlock,West Germany,6,0,0,6,1.00,Forward,Yes,
+1958,1,Just Fontaine,France,13,0,0,6,2.17,Forward,No,All-time WC record; still stands; scored in every game
+1958,2,Pelé,Brazil,6,0,0,4,1.50,Forward,Yes,17 years old; youngest WC winner ever
+1958,3,Helmut Rahn,West Germany,4,0,0,6,0.67,Forward,No,
+1962,1,Garrincha,Brazil,4,0,0,5,0.80,Winger,Yes,Shared golden boot with 5 others
+1962,1,Vavá,Brazil,4,0,0,5,0.80,Forward,Yes,
+1962,1,Leonel Sánchez,Chile,4,0,0,6,0.67,Winger,No,
+1962,1,Dražan Jerković,Yugoslavia,4,0,0,6,0.67,Forward,No,
+1966,1,Eusébio,Portugal,9,1,4,6,1.50,Forward,No,4 of 9 were penalties; led Portugal to 3rd place
+1966,2,Helmut Haller,West Germany,6,0,0,6,1.00,Midfielder,No,
+1966,3,Geoff Hurst,England,4,0,0,6,0.67,Forward,Yes,Only hat-trick in a WC final
+1970,1,Gerd Müller,West Germany,10,0,0,6,1.67,Forward,No,Der Bomber; scored in every game
+1970,2,Jairzinho,Brazil,7,0,0,6,1.17,Winger,Yes,Only player to score in every game of a WC
+1970,3,Teófilo Cubillas,Peru,5,0,0,4,1.25,Midfielder,No,
+1974,1,Grzegorz Lato,Poland,7,0,0,7,1.00,Winger,No,Golden Boot; Poland 3rd place run
+1974,2,Johan Neeskens,Netherlands,5,0,0,7,0.71,Midfielder,No,
+1974,3,Andrzej Szarmach,Poland,5,0,0,7,0.71,Forward,No,
+1978,1,Mario Kempes,Argentina,6,0,0,7,0.86,Forward,Yes,2 goals in final; tournament's best player
+1978,2,Teófilo Cubillas,Peru,5,2,2,6,0.83,Midfielder,No,
+1978,3,Rob Rensenbrink,Netherlands,5,1,1,7,0.71,Winger,No,Hit the post in final's last minute
+1982,1,Paolo Rossi,Italy,6,0,0,7,0.86,Forward,Yes,3 goals vs Brazil in greatest WC game; Ballon d'Or
+1982,2,Karl-Heinz Rummenigge,West Germany,5,0,0,6,0.83,Forward,No,
+1982,3,Zbigniew Boniek,Poland,4,0,0,5,0.80,Midfielder,No,
+1986,1,Gary Lineker,England,6,1,0,5,1.20,Forward,No,Hat-trick vs Poland; England QF
+1986,2,Diego Maradona,Argentina,5,5,0,7,0.71,Midfielder,Yes,Also 5 assists; best ever WC individual performance
+1986,3,Emilio Butragueño,Spain,5,0,0,5,1.00,Forward,No,
+1990,1,Salvatore Schillaci,Italy,6,0,0,7,0.86,Forward,No,Golden Ball + Boot; came from nowhere
+1990,2,Tomáš Skuhravý,Czechoslovakia,5,0,0,4,1.25,Forward,No,
+1990,3,Michel,Spain,4,0,0,5,0.80,Midfielder,No,
+1994,1,Hristo Stoichkov,Bulgaria,6,1,3,6,1.00,Forward,No,Shared with Salenko; penalty specialist
+1994,1,Oleg Salenko,Russia,6,0,1,3,2.00,Forward,No,Scored 5 in one game vs Cameroon; group stage exit
+1994,3,Romário,Brazil,5,0,0,7,0.71,Forward,Yes,Maradona-level tournament; 5 crucial goals
+1998,1,Davor Šuker,Croatia,6,1,0,6,1.00,Forward,No,Croatia 3rd place; Golden Boot
+1998,2,Gabriel Batistuta,Argentina,5,0,2,4,1.25,Forward,No,Hat-trick vs Jamaica
+1998,3,Christian Vieri,Italy,5,0,0,5,1.00,Forward,No,
+2002,1,Ronaldo,Brazil,8,1,0,7,1.14,Forward,Yes,Redemption from 1998; all-time WC record at the time
+2002,2,Rivaldo,Brazil,5,3,0,7,0.71,Forward,Yes,
+2002,3,Miroslav Klose,Germany,5,0,0,7,0.71,Forward,No,First of his 16 WC goals
+2006,1,Miroslav Klose,Germany,5,0,0,7,0.71,Forward,No,
+2006,2,Ronaldo,Brazil,3,0,0,5,0.60,Forward,No,Became all-time record scorer (15 at the time)
+2006,3,Thierry Henry,France,3,0,0,7,0.43,Forward,No,
+2010,1,Thomas Müller,Germany,5,3,1,6,0.83,Midfielder,No,Shared golden boot with Villa and Sneijder
+2010,1,David Villa,Spain,5,1,0,7,0.71,Forward,Yes,
+2010,1,Wesley Sneijder,Netherlands,5,1,0,7,0.71,Midfielder,No,
+2010,1,Diego Forlán,Uruguay,5,1,0,7,0.71,Midfielder,No,Golden Ball winner
+2014,1,James Rodríguez,Colombia,6,2,0,5,1.20,Midfielder,No,Golden Boot + assist leader; best debut WC in modern era
+2014,2,Thomas Müller,Germany,5,3,1,7,0.71,Midfielder,Yes,
+2014,3,Neymar,Brazil,4,1,0,4,1.00,Forward,No,Injured in QF; Brazil collapsed without him
+2018,1,Harry Kane,England,6,0,3,6,1.00,Forward,No,3 penalties; helped by set pieces
+2018,2,Antoine Griezmann,France,3,2,0,7,0.43,Forward,Yes,
+2018,3,Romelu Lukaku,Belgium,4,2,0,6,0.67,Forward,No,
+2022,1,Kylian Mbappé,France,8,2,3,7,1.14,Forward,No,Hat-trick in final; lost on pens; generational performance
+2022,2,Lionel Messi,Argentina,7,3,3,7,1.00,Forward,Yes,Golden Ball; finally lifted the trophy
+2022,3,Olivier Giroud,France,4,0,0,7,0.57,Forward,No,
+2022,4,Marcus Rashford,England,3,0,0,5,0.60,Forward,No,
+2022,4,Cody Gakpo,Netherlands,3,0,0,6,0.50,Winger,No,
+2022,4,Enner Valencia,Ecuador,3,0,0,3,1.00,Forward,No,Scored all 3 of Ecuador's goals

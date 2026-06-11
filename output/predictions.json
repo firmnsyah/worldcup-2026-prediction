@@ -1,0 +1,2117 @@
+{
+  "generated_at": "2026-06-12T01:24:11",
+  "n_sims": 50000,
+  "champion": {
+    "Argentina": 18.73,
+    "Spain": 13.78,
+    "France": 8.51,
+    "Mexico": 7.82,
+    "Brazil": 6.45,
+    "England": 6.36,
+    "Colombia": 5.23,
+    "Canada": 3.85,
+    "Ecuador": 3.68,
+    "Portugal": 3.14,
+    "Germany": 2.8,
+    "Netherlands": 2.1,
+    "Belgium": 1.98,
+    "Croatia": 1.69,
+    "Japan": 1.66,
+    "Morocco": 1.66,
+    "United States": 1.32,
+    "Norway": 1.22,
+    "Uruguay": 1.15,
+    "Turkey": 1.0,
+    "Switzerland": 0.93,
+    "Australia": 0.71,
+    "Austria": 0.56,
+    "Algeria": 0.55,
+    "Iran": 0.54,
+    "Paraguay": 0.52,
+    "Senegal": 0.43,
+    "South Korea": 0.31,
+    "Panama": 0.24,
+    "Czech Republic": 0.2,
+    "Egypt": 0.2,
+    "Scotland": 0.18,
+    "Ivory Coast": 0.17,
+    "DR Congo": 0.07,
+    "Uzbekistan": 0.05,
+    "Jordan": 0.04,
+    "Iraq": 0.03,
+    "Tunisia": 0.03,
+    "Haiti": 0.02,
+    "Bosnia and Herzegovina": 0.02,
+    "Sweden": 0.02,
+    "New Zealand": 0.02,
+    "Cape Verde": 0.01,
+    "Saudi Arabia": 0.01,
+    "South Africa": 0.01,
+    "Curaçao": 0.0,
+    "Ghana": 0.0,
+    "Qatar": 0.0
+  },
+  "rounds": {
+    "Algeria": {
+      "32 Besar": 62.39,
+      "16 Besar": 24.33,
+      "Perempat Final": 11.04,
+      "Semifinal": 4.52,
+      "Final": 1.7,
+      "Juara": 0.55
+    },
+    "Argentina": {
+      "32 Besar": 96.11,
+      "16 Besar": 69.03,
+      "Perempat Final": 53.95,
+      "Semifinal": 39.5,
+      "Final": 27.54,
+      "Juara": 18.73
+    },
+    "Australia": {
+      "32 Besar": 61.48,
+      "16 Besar": 32.74,
+      "Perempat Final": 13.94,
+      "Semifinal": 5.58,
+      "Final": 2.18,
+      "Juara": 0.71
+    },
+    "Austria": {
+      "32 Besar": 64.04,
+      "16 Besar": 25.23,
+      "Perempat Final": 11.59,
+      "Semifinal": 4.54,
+      "Final": 1.72,
+      "Juara": 0.56
+    },
+    "Belgium": {
+      "32 Besar": 86.88,
+      "16 Besar": 50.85,
+      "Perempat Final": 25.27,
+      "Semifinal": 10.82,
+      "Final": 5.02,
+      "Juara": 1.98
+    },
+    "Bosnia and Herzegovina": {
+      "32 Besar": 44.25,
+      "16 Besar": 12.22,
+      "Perempat Final": 3.03,
+      "Semifinal": 0.67,
+      "Final": 0.15,
+      "Juara": 0.02
+    },
+    "Brazil": {
+      "32 Besar": 92.52,
+      "16 Besar": 62.69,
+      "Perempat Final": 40.11,
+      "Semifinal": 23.5,
+      "Final": 12.28,
+      "Juara": 6.45
+    },
+    "Canada": {
+      "32 Besar": 95.79,
+      "16 Besar": 63.6,
+      "Perempat Final": 34.57,
+      "Semifinal": 16.88,
+      "Final": 8.42,
+      "Juara": 3.85
+    },
+    "Cape Verde": {
+      "32 Besar": 31.66,
+      "16 Besar": 6.26,
+      "Perempat Final": 1.52,
+      "Semifinal": 0.35,
+      "Final": 0.07,
+      "Juara": 0.01
+    },
+    "Colombia": {
+      "32 Besar": 90.3,
+      "16 Besar": 60.3,
+      "Perempat Final": 34.32,
+      "Semifinal": 18.92,
+      "Final": 10.39,
+      "Juara": 5.23
+    },
+    "Croatia": {
+      "32 Besar": 84.0,
+      "16 Besar": 44.05,
+      "Perempat Final": 20.04,
+      "Semifinal": 9.68,
+      "Final": 4.26,
+      "Juara": 1.69
+    },
+    "Curaçao": {
+      "32 Besar": 21.98,
+      "16 Besar": 4.61,
+      "Perempat Final": 0.85,
+      "Semifinal": 0.15,
+      "Final": 0.02,
+      "Juara": 0.0
+    },
+    "Czech Republic": {
+      "32 Besar": 62.55,
+      "16 Besar": 25.86,
+      "Perempat Final": 9.39,
+      "Semifinal": 2.96,
+      "Final": 0.88,
+      "Juara": 0.2
+    },
+    "DR Congo": {
+      "32 Besar": 38.45,
+      "16 Besar": 12.15,
+      "Perempat Final": 3.55,
+      "Semifinal": 1.07,
+      "Final": 0.3,
+      "Juara": 0.07
+    },
+    "Ecuador": {
+      "32 Besar": 92.39,
+      "16 Besar": 58.71,
+      "Perempat Final": 32.74,
+      "Semifinal": 17.52,
+      "Final": 8.14,
+      "Juara": 3.68
+    },
+    "Egypt": {
+      "32 Besar": 60.86,
+      "16 Besar": 23.41,
+      "Perempat Final": 7.44,
+      "Semifinal": 2.16,
+      "Final": 0.68,
+      "Juara": 0.2
+    },
+    "England": {
+      "32 Besar": 94.47,
+      "16 Besar": 62.39,
+      "Perempat Final": 36.12,
+      "Semifinal": 21.83,
+      "Final": 11.84,
+      "Juara": 6.36
+    },
+    "France": {
+      "32 Besar": 93.39,
+      "16 Besar": 66.25,
+      "Perempat Final": 43.41,
+      "Semifinal": 27.22,
+      "Final": 15.63,
+      "Juara": 8.51
+    },
+    "Germany": {
+      "32 Besar": 91.6,
+      "16 Besar": 55.88,
+      "Perempat Final": 28.71,
+      "Semifinal": 14.52,
+      "Final": 6.5,
+      "Juara": 2.8
+    },
+    "Ghana": {
+      "32 Besar": 22.68,
+      "16 Besar": 4.43,
+      "Perempat Final": 0.84,
+      "Semifinal": 0.13,
+      "Final": 0.02,
+      "Juara": 0.0
+    },
+    "Haiti": {
+      "32 Besar": 30.68,
+      "16 Besar": 8.03,
+      "Perempat Final": 2.14,
+      "Semifinal": 0.48,
+      "Final": 0.09,
+      "Juara": 0.02
+    },
+    "Iran": {
+      "32 Besar": 76.52,
+      "16 Besar": 36.55,
+      "Perempat Final": 14.33,
+      "Semifinal": 5.13,
+      "Final": 1.81,
+      "Juara": 0.54
+    },
+    "Iraq": {
+      "32 Besar": 30.0,
+      "16 Besar": 8.83,
+      "Perempat Final": 2.46,
+      "Semifinal": 0.58,
+      "Final": 0.11,
+      "Juara": 0.03
+    },
+    "Ivory Coast": {
+      "32 Besar": 62.09,
+      "16 Besar": 22.96,
+      "Perempat Final": 7.61,
+      "Semifinal": 2.22,
+      "Final": 0.6,
+      "Juara": 0.17
+    },
+    "Japan": {
+      "32 Besar": 86.0,
+      "16 Besar": 44.39,
+      "Perempat Final": 23.24,
+      "Semifinal": 10.16,
+      "Final": 4.22,
+      "Juara": 1.66
+    },
+    "Jordan": {
+      "32 Besar": 41.47,
+      "16 Besar": 11.42,
+      "Perempat Final": 3.46,
+      "Semifinal": 0.92,
+      "Final": 0.24,
+      "Juara": 0.04
+    },
+    "Mexico": {
+      "32 Besar": 96.18,
+      "16 Besar": 69.13,
+      "Perempat Final": 43.4,
+      "Semifinal": 26.32,
+      "Final": 14.27,
+      "Juara": 7.82
+    },
+    "Morocco": {
+      "32 Besar": 82.64,
+      "16 Besar": 44.14,
+      "Perempat Final": 22.86,
+      "Semifinal": 10.09,
+      "Final": 4.19,
+      "Juara": 1.66
+    },
+    "Netherlands": {
+      "32 Besar": 89.55,
+      "16 Besar": 45.2,
+      "Perempat Final": 24.83,
+      "Semifinal": 11.49,
+      "Final": 5.11,
+      "Juara": 2.1
+    },
+    "New Zealand": {
+      "32 Besar": 47.26,
+      "16 Besar": 13.92,
+      "Perempat Final": 3.36,
+      "Semifinal": 0.73,
+      "Final": 0.14,
+      "Juara": 0.02
+    },
+    "Norway": {
+      "32 Besar": 78.91,
+      "16 Besar": 40.64,
+      "Perempat Final": 19.08,
+      "Semifinal": 8.19,
+      "Final": 3.31,
+      "Juara": 1.22
+    },
+    "Panama": {
+      "32 Besar": 67.81,
+      "16 Besar": 25.89,
+      "Perempat Final": 8.79,
+      "Semifinal": 2.89,
+      "Final": 0.87,
+      "Juara": 0.24
+    },
+    "Paraguay": {
+      "32 Besar": 64.51,
+      "16 Besar": 31.41,
+      "Perempat Final": 12.64,
+      "Semifinal": 4.53,
+      "Final": 1.65,
+      "Juara": 0.52
+    },
+    "Portugal": {
+      "32 Besar": 89.51,
+      "16 Besar": 51.89,
+      "Perempat Final": 27.77,
+      "Semifinal": 14.26,
+      "Final": 6.94,
+      "Juara": 3.14
+    },
+    "Qatar": {
+      "32 Besar": 29.17,
+      "16 Besar": 5.53,
+      "Perempat Final": 0.93,
+      "Semifinal": 0.13,
+      "Final": 0.01,
+      "Juara": 0.0
+    },
+    "Saudi Arabia": {
+      "32 Besar": 38.68,
+      "16 Besar": 8.12,
+      "Perempat Final": 2.11,
+      "Semifinal": 0.45,
+      "Final": 0.08,
+      "Juara": 0.01
+    },
+    "Scotland": {
+      "32 Besar": 62.14,
+      "16 Besar": 22.18,
+      "Perempat Final": 8.41,
+      "Semifinal": 2.58,
+      "Final": 0.71,
+      "Juara": 0.18
+    },
+    "Senegal": {
+      "32 Besar": 66.75,
+      "16 Besar": 29.3,
+      "Perempat Final": 12.03,
+      "Semifinal": 4.29,
+      "Final": 1.44,
+      "Juara": 0.43
+    },
+    "South Africa": {
+      "32 Besar": 32.01,
+      "16 Besar": 8.01,
+      "Perempat Final": 1.48,
+      "Semifinal": 0.27,
+      "Final": 0.05,
+      "Juara": 0.01
+    },
+    "South Korea": {
+      "32 Besar": 75.05,
+      "16 Besar": 34.47,
+      "Perempat Final": 12.59,
+      "Semifinal": 4.12,
+      "Final": 1.24,
+      "Juara": 0.31
+    },
+    "Spain": {
+      "32 Besar": 97.94,
+      "16 Besar": 66.85,
+      "Perempat Final": 46.99,
+      "Semifinal": 33.65,
+      "Final": 22.33,
+      "Juara": 13.78
+    },
+    "Sweden": {
+      "32 Besar": 48.83,
+      "16 Besar": 12.96,
+      "Perempat Final": 3.73,
+      "Semifinal": 0.88,
+      "Final": 0.18,
+      "Juara": 0.02
+    },
+    "Switzerland": {
+      "32 Besar": 90.57,
+      "16 Besar": 48.7,
+      "Perempat Final": 20.95,
+      "Semifinal": 7.96,
+      "Final": 2.81,
+      "Juara": 0.93
+    },
+    "Tunisia": {
+      "32 Besar": 44.12,
+      "16 Besar": 10.74,
+      "Perempat Final": 2.76,
+      "Semifinal": 0.56,
+      "Final": 0.14,
+      "Juara": 0.03
+    },
+    "Turkey": {
+      "32 Besar": 74.16,
+      "16 Besar": 39.99,
+      "Perempat Final": 17.94,
+      "Semifinal": 7.04,
+      "Final": 2.79,
+      "Juara": 1.0
+    },
+    "United States": {
+      "32 Besar": 74.07,
+      "16 Besar": 42.31,
+      "Perempat Final": 19.66,
+      "Semifinal": 8.24,
+      "Final": 3.42,
+      "Juara": 1.32
+    },
+    "Uruguay": {
+      "32 Besar": 87.41,
+      "16 Besar": 36.28,
+      "Perempat Final": 17.72,
+      "Semifinal": 8.09,
+      "Final": 3.22,
+      "Juara": 1.15
+    },
+    "Uzbekistan": {
+      "32 Besar": 48.16,
+      "16 Besar": 15.15,
+      "Perempat Final": 4.3,
+      "Semifinal": 1.23,
+      "Final": 0.28,
+      "Juara": 0.05
+    }
+  },
+  "groups": {
+    "A": [
+      {
+        "tim": "Mexico",
+        "exp_poin": 6.64,
+        "p_juara_grup": 67.0,
+        "p_runner_up": 21.9,
+        "p_lolos": 96.2,
+        "elo": 1980
+      },
+      {
+        "tim": "South Korea",
+        "exp_poin": 4.3,
+        "p_juara_grup": 18.3,
+        "p_runner_up": 36.9,
+        "p_lolos": 75.1,
+        "elo": 1881
+      },
+      {
+        "tim": "Czech Republic",
+        "exp_poin": 3.51,
+        "p_juara_grup": 10.8,
+        "p_runner_up": 27.7,
+        "p_lolos": 62.5,
+        "elo": 1802
+      },
+      {
+        "tim": "South Africa",
+        "exp_poin": 2.23,
+        "p_juara_grup": 3.9,
+        "p_runner_up": 13.5,
+        "p_lolos": 32.0,
+        "elo": 1663
+      }
+    ],
+    "B": [
+      {
+        "tim": "Canada",
+        "exp_poin": 6.37,
+        "p_juara_grup": 56.4,
+        "p_runner_up": 31.6,
+        "p_lolos": 95.8,
+        "elo": 1899
+      },
+      {
+        "tim": "Switzerland",
+        "exp_poin": 5.53,
+        "p_juara_grup": 35.8,
+        "p_runner_up": 42.6,
+        "p_lolos": 90.6,
+        "elo": 1956
+      },
+      {
+        "tim": "Bosnia and Herzegovina",
+        "exp_poin": 2.81,
+        "p_juara_grup": 5.0,
+        "p_runner_up": 15.3,
+        "p_lolos": 44.3,
+        "elo": 1652
+      },
+      {
+        "tim": "Qatar",
+        "exp_poin": 2.06,
+        "p_juara_grup": 2.8,
+        "p_runner_up": 10.5,
+        "p_lolos": 29.2,
+        "elo": 1566
+      }
+    ],
+    "C": [
+      {
+        "tim": "Brazil",
+        "exp_poin": 5.93,
+        "p_juara_grup": 53.5,
+        "p_runner_up": 27.5,
+        "p_lolos": 92.5,
+        "elo": 2069
+      },
+      {
+        "tim": "Morocco",
+        "exp_poin": 4.83,
+        "p_juara_grup": 28.3,
+        "p_runner_up": 36.0,
+        "p_lolos": 82.6,
+        "elo": 1985
+      },
+      {
+        "tim": "Scotland",
+        "exp_poin": 3.65,
+        "p_juara_grup": 14.3,
+        "p_runner_up": 24.9,
+        "p_lolos": 62.1,
+        "elo": 1844
+      },
+      {
+        "tim": "Haiti",
+        "exp_poin": 2.22,
+        "p_juara_grup": 4.0,
+        "p_runner_up": 11.7,
+        "p_lolos": 30.7,
+        "elo": 1707
+      }
+    ],
+    "D": [
+      {
+        "tim": "United States",
+        "exp_poin": 4.45,
+        "p_juara_grup": 29.9,
+        "p_runner_up": 26.3,
+        "p_lolos": 74.1,
+        "elo": 1827
+      },
+      {
+        "tim": "Turkey",
+        "exp_poin": 4.43,
+        "p_juara_grup": 30.5,
+        "p_runner_up": 26.3,
+        "p_lolos": 74.2,
+        "elo": 1969
+      },
+      {
+        "tim": "Paraguay",
+        "exp_poin": 3.86,
+        "p_juara_grup": 20.7,
+        "p_runner_up": 24.2,
+        "p_lolos": 64.5,
+        "elo": 1919
+      },
+      {
+        "tim": "Australia",
+        "exp_poin": 3.67,
+        "p_juara_grup": 18.9,
+        "p_runner_up": 23.2,
+        "p_lolos": 61.5,
+        "elo": 1902
+      }
+    ],
+    "E": [
+      {
+        "tim": "Ecuador",
+        "exp_poin": 5.82,
+        "p_juara_grup": 45.5,
+        "p_runner_up": 33.4,
+        "p_lolos": 92.4,
+        "elo": 2028
+      },
+      {
+        "tim": "Germany",
+        "exp_poin": 5.56,
+        "p_juara_grup": 41.0,
+        "p_runner_up": 36.5,
+        "p_lolos": 91.6,
+        "elo": 2005
+      },
+      {
+        "tim": "Ivory Coast",
+        "exp_poin": 3.51,
+        "p_juara_grup": 11.2,
+        "p_runner_up": 22.6,
+        "p_lolos": 62.1,
+        "elo": 1815
+      },
+      {
+        "tim": "Curaçao",
+        "exp_poin": 1.82,
+        "p_juara_grup": 2.3,
+        "p_runner_up": 7.5,
+        "p_lolos": 22.0,
+        "elo": 1606
+      }
+    ],
+    "F": [
+      {
+        "tim": "Netherlands",
+        "exp_poin": 5.62,
+        "p_juara_grup": 47.0,
+        "p_runner_up": 30.3,
+        "p_lolos": 89.6,
+        "elo": 2011
+      },
+      {
+        "tim": "Japan",
+        "exp_poin": 5.19,
+        "p_juara_grup": 36.1,
+        "p_runner_up": 34.6,
+        "p_lolos": 86.0,
+        "elo": 1994
+      },
+      {
+        "tim": "Sweden",
+        "exp_poin": 2.96,
+        "p_juara_grup": 8.5,
+        "p_runner_up": 18.3,
+        "p_lolos": 48.8,
+        "elo": 1771
+      },
+      {
+        "tim": "Tunisia",
+        "exp_poin": 2.81,
+        "p_juara_grup": 8.3,
+        "p_runner_up": 16.9,
+        "p_lolos": 44.1,
+        "elo": 1738
+      }
+    ],
+    "G": [
+      {
+        "tim": "Belgium",
+        "exp_poin": 5.43,
+        "p_juara_grup": 46.7,
+        "p_runner_up": 26.8,
+        "p_lolos": 86.9,
+        "elo": 1957
+      },
+      {
+        "tim": "Iran",
+        "exp_poin": 4.5,
+        "p_juara_grup": 27.3,
+        "p_runner_up": 30.4,
+        "p_lolos": 76.5,
+        "elo": 1897
+      },
+      {
+        "tim": "Egypt",
+        "exp_poin": 3.55,
+        "p_juara_grup": 15.7,
+        "p_runner_up": 24.4,
+        "p_lolos": 60.9,
+        "elo": 1810
+      },
+      {
+        "tim": "New Zealand",
+        "exp_poin": 3.01,
+        "p_juara_grup": 10.4,
+        "p_runner_up": 18.4,
+        "p_lolos": 47.3,
+        "elo": 1732
+      }
+    ],
+    "H": [
+      {
+        "tim": "Spain",
+        "exp_poin": 6.96,
+        "p_juara_grup": 69.6,
+        "p_runner_up": 23.6,
+        "p_lolos": 97.9,
+        "elo": 2219
+      },
+      {
+        "tim": "Uruguay",
+        "exp_poin": 5.13,
+        "p_juara_grup": 24.3,
+        "p_runner_up": 49.4,
+        "p_lolos": 87.4,
+        "elo": 1975
+      },
+      {
+        "tim": "Saudi Arabia",
+        "exp_poin": 2.5,
+        "p_juara_grup": 3.4,
+        "p_runner_up": 15.3,
+        "p_lolos": 38.7,
+        "elo": 1693
+      },
+      {
+        "tim": "Cape Verde",
+        "exp_poin": 2.25,
+        "p_juara_grup": 2.6,
+        "p_runner_up": 11.8,
+        "p_lolos": 31.7,
+        "elo": 1654
+      }
+    ],
+    "I": [
+      {
+        "tim": "France",
+        "exp_poin": 6.11,
+        "p_juara_grup": 56.5,
+        "p_runner_up": 26.6,
+        "p_lolos": 93.4,
+        "elo": 2125
+      },
+      {
+        "tim": "Norway",
+        "exp_poin": 4.6,
+        "p_juara_grup": 25.2,
+        "p_runner_up": 34.5,
+        "p_lolos": 78.9,
+        "elo": 1972
+      },
+      {
+        "tim": "Senegal",
+        "exp_poin": 3.77,
+        "p_juara_grup": 14.1,
+        "p_runner_up": 27.3,
+        "p_lolos": 66.7,
+        "elo": 1914
+      },
+      {
+        "tim": "Iraq",
+        "exp_poin": 2.15,
+        "p_juara_grup": 4.2,
+        "p_runner_up": 11.6,
+        "p_lolos": 30.0,
+        "elo": 1738
+      }
+    ],
+    "J": [
+      {
+        "tim": "Argentina",
+        "exp_poin": 6.69,
+        "p_juara_grup": 70.4,
+        "p_runner_up": 19.3,
+        "p_lolos": 96.1,
+        "elo": 2190
+      },
+      {
+        "tim": "Austria",
+        "exp_poin": 3.64,
+        "p_juara_grup": 11.9,
+        "p_runner_up": 31.3,
+        "p_lolos": 64.0,
+        "elo": 1890
+      },
+      {
+        "tim": "Algeria",
+        "exp_poin": 3.6,
+        "p_juara_grup": 11.3,
+        "p_runner_up": 30.9,
+        "p_lolos": 62.4,
+        "elo": 1884
+      },
+      {
+        "tim": "Jordan",
+        "exp_poin": 2.72,
+        "p_juara_grup": 6.4,
+        "p_runner_up": 18.5,
+        "p_lolos": 41.5,
+        "elo": 1775
+      }
+    ],
+    "K": [
+      {
+        "tim": "Colombia",
+        "exp_poin": 5.68,
+        "p_juara_grup": 46.1,
+        "p_runner_up": 32.0,
+        "p_lolos": 90.3,
+        "elo": 2064
+      },
+      {
+        "tim": "Portugal",
+        "exp_poin": 5.48,
+        "p_juara_grup": 40.4,
+        "p_runner_up": 36.0,
+        "p_lolos": 89.5,
+        "elo": 2046
+      },
+      {
+        "tim": "Uzbekistan",
+        "exp_poin": 2.96,
+        "p_juara_grup": 8.2,
+        "p_runner_up": 18.2,
+        "p_lolos": 48.2,
+        "elo": 1821
+      },
+      {
+        "tim": "DR Congo",
+        "exp_poin": 2.51,
+        "p_juara_grup": 5.4,
+        "p_runner_up": 13.8,
+        "p_lolos": 38.5,
+        "elo": 1763
+      }
+    ],
+    "L": [
+      {
+        "tim": "England",
+        "exp_poin": 6.17,
+        "p_juara_grup": 55.9,
+        "p_runner_up": 27.4,
+        "p_lolos": 94.5,
+        "elo": 2091
+      },
+      {
+        "tim": "Croatia",
+        "exp_poin": 4.8,
+        "p_juara_grup": 26.2,
+        "p_runner_up": 37.0,
+        "p_lolos": 84.0,
+        "elo": 1969
+      },
+      {
+        "tim": "Panama",
+        "exp_poin": 3.92,
+        "p_juara_grup": 15.6,
+        "p_runner_up": 27.6,
+        "p_lolos": 67.8,
+        "elo": 1854
+      },
+      {
+        "tim": "Ghana",
+        "exp_poin": 1.81,
+        "p_juara_grup": 2.3,
+        "p_runner_up": 8.1,
+        "p_lolos": 22.7,
+        "elo": 1625
+      }
+    ]
+  },
+  "matches": [
+    {
+      "tanggal": "2026-06-11",
+      "grup": "A",
+      "home": "Mexico",
+      "away": "South Africa",
+      "p_home": 75.0,
+      "p_seri": 15.7,
+      "p_away": 9.2,
+      "skor": "2-0",
+      "p_skor": 15.8,
+      "xg_home": 2.32,
+      "xg_away": 0.46
+    },
+    {
+      "tanggal": "2026-06-11",
+      "grup": "A",
+      "home": "South Korea",
+      "away": "Czech Republic",
+      "p_home": 48.9,
+      "p_seri": 25.6,
+      "p_away": 25.5,
+      "skor": "1-0",
+      "p_skor": 12.7,
+      "xg_home": 1.42,
+      "xg_away": 1.09
+    },
+    {
+      "tanggal": "2026-06-12",
+      "grup": "B",
+      "home": "Canada",
+      "away": "Bosnia and Herzegovina",
+      "p_home": 71.2,
+      "p_seri": 17.9,
+      "p_away": 11.0,
+      "skor": "2-0",
+      "p_skor": 12.2,
+      "xg_home": 2.56,
+      "xg_away": 0.62
+    },
+    {
+      "tanggal": "2026-06-12",
+      "grup": "D",
+      "home": "United States",
+      "away": "Paraguay",
+      "p_home": 41.9,
+      "p_seri": 26.5,
+      "p_away": 31.6,
+      "skor": "1-1",
+      "p_skor": 12.6,
+      "xg_home": 1.32,
+      "xg_away": 1.25
+    },
+    {
+      "tanggal": "2026-06-13",
+      "grup": "B",
+      "home": "Qatar",
+      "away": "Switzerland",
+      "p_home": 15.0,
+      "p_seri": 18.8,
+      "p_away": 66.2,
+      "skor": "0-2",
+      "p_skor": 12.4,
+      "xg_home": 0.76,
+      "xg_away": 2.05
+    },
+    {
+      "tanggal": "2026-06-13",
+      "grup": "C",
+      "home": "Brazil",
+      "away": "Morocco",
+      "p_home": 49.4,
+      "p_seri": 25.5,
+      "p_away": 25.1,
+      "skor": "1-1",
+      "p_skor": 12.1,
+      "xg_home": 1.7,
+      "xg_away": 0.93
+    },
+    {
+      "tanggal": "2026-06-13",
+      "grup": "C",
+      "home": "Haiti",
+      "away": "Scotland",
+      "p_home": 28.6,
+      "p_seri": 25.8,
+      "p_away": 45.6,
+      "skor": "1-1",
+      "p_skor": 12.2,
+      "xg_home": 0.94,
+      "xg_away": 1.7
+    },
+    {
+      "tanggal": "2026-06-13",
+      "grup": "D",
+      "home": "Australia",
+      "away": "Turkey",
+      "p_home": 34.6,
+      "p_seri": 26.6,
+      "p_away": 38.8,
+      "skor": "1-1",
+      "p_skor": 12.6,
+      "xg_home": 1.07,
+      "xg_away": 1.47
+    },
+    {
+      "tanggal": "2026-06-14",
+      "grup": "F",
+      "home": "Sweden",
+      "away": "Tunisia",
+      "p_home": 44.3,
+      "p_seri": 26.3,
+      "p_away": 29.4,
+      "skor": "1-1",
+      "p_skor": 12.4,
+      "xg_home": 1.54,
+      "xg_away": 1.25
+    },
+    {
+      "tanggal": "2026-06-14",
+      "grup": "F",
+      "home": "Netherlands",
+      "away": "Japan",
+      "p_home": 42.7,
+      "p_seri": 26.5,
+      "p_away": 30.8,
+      "skor": "1-1",
+      "p_skor": 12.5,
+      "xg_home": 1.51,
+      "xg_away": 1.0
+    },
+    {
+      "tanggal": "2026-06-14",
+      "grup": "E",
+      "home": "Germany",
+      "away": "Curaçao",
+      "p_home": 74.1,
+      "p_seri": 16.3,
+      "p_away": 9.6,
+      "skor": "3-0",
+      "p_skor": 10.3,
+      "xg_home": 3.11,
+      "xg_away": 0.64
+    },
+    {
+      "tanggal": "2026-06-14",
+      "grup": "E",
+      "home": "Ivory Coast",
+      "away": "Ecuador",
+      "p_home": 23.2,
+      "p_seri": 24.1,
+      "p_away": 52.7,
+      "skor": "0-1",
+      "p_skor": 15.0,
+      "xg_home": 0.8,
+      "xg_away": 1.48
+    },
+    {
+      "tanggal": "2026-06-15",
+      "grup": "G",
+      "home": "Belgium",
+      "away": "Egypt",
+      "p_home": 55.4,
+      "p_seri": 24.1,
+      "p_away": 20.5,
+      "skor": "1-0",
+      "p_skor": 14.6,
+      "xg_home": 1.42,
+      "xg_away": 1.07
+    },
+    {
+      "tanggal": "2026-06-15",
+      "grup": "G",
+      "home": "Iran",
+      "away": "New Zealand",
+      "p_home": 57.2,
+      "p_seri": 23.6,
+      "p_away": 19.2,
+      "skor": "1-0",
+      "p_skor": 12.6,
+      "xg_home": 1.76,
+      "xg_away": 0.85
+    },
+    {
+      "tanggal": "2026-06-15",
+      "grup": "H",
+      "home": "Spain",
+      "away": "Cape Verde",
+      "p_home": 80.9,
+      "p_seri": 12.0,
+      "p_away": 7.2,
+      "skor": "3-0",
+      "p_skor": 13.1,
+      "xg_home": 3.12,
+      "xg_away": 0.45
+    },
+    {
+      "tanggal": "2026-06-15",
+      "grup": "H",
+      "home": "Saudi Arabia",
+      "away": "Uruguay",
+      "p_home": 19.2,
+      "p_seri": 22.2,
+      "p_away": 58.6,
+      "skor": "0-1",
+      "p_skor": 14.6,
+      "xg_home": 0.65,
+      "xg_away": 1.74
+    },
+    {
+      "tanggal": "2026-06-16",
+      "grup": "J",
+      "home": "Austria",
+      "away": "Jordan",
+      "p_home": 52.4,
+      "p_seri": 24.9,
+      "p_away": 22.7,
+      "skor": "1-1",
+      "p_skor": 11.8,
+      "xg_home": 2.0,
+      "xg_away": 0.8
+    },
+    {
+      "tanggal": "2026-06-16",
+      "grup": "J",
+      "home": "Argentina",
+      "away": "Algeria",
+      "p_home": 68.5,
+      "p_seri": 19.2,
+      "p_away": 12.3,
+      "skor": "2-0",
+      "p_skor": 12.9,
+      "xg_home": 2.16,
+      "xg_away": 0.7
+    },
+    {
+      "tanggal": "2026-06-16",
+      "grup": "I",
+      "home": "France",
+      "away": "Senegal",
+      "p_home": 61.2,
+      "p_seri": 22.2,
+      "p_away": 16.5,
+      "skor": "1-0",
+      "p_skor": 14.9,
+      "xg_home": 1.65,
+      "xg_away": 0.83
+    },
+    {
+      "tanggal": "2026-06-16",
+      "grup": "I",
+      "home": "Iraq",
+      "away": "Norway",
+      "p_home": 21.9,
+      "p_seri": 23.6,
+      "p_away": 54.5,
+      "skor": "0-1",
+      "p_skor": 13.6,
+      "xg_home": 0.75,
+      "xg_away": 1.67
+    },
+    {
+      "tanggal": "2026-06-17",
+      "grup": "K",
+      "home": "Portugal",
+      "away": "DR Congo",
+      "p_home": 66.9,
+      "p_seri": 19.9,
+      "p_away": 13.2,
+      "skor": "1-0",
+      "p_skor": 13.4,
+      "xg_home": 1.98,
+      "xg_away": 0.71
+    },
+    {
+      "tanggal": "2026-06-17",
+      "grup": "K",
+      "home": "Uzbekistan",
+      "away": "Colombia",
+      "p_home": 21.3,
+      "p_seri": 23.3,
+      "p_away": 55.4,
+      "skor": "0-1",
+      "p_skor": 12.1,
+      "xg_home": 0.68,
+      "xg_away": 1.89
+    },
+    {
+      "tanggal": "2026-06-17",
+      "grup": "L",
+      "home": "England",
+      "away": "Croatia",
+      "p_home": 53.0,
+      "p_seri": 24.7,
+      "p_away": 22.2,
+      "skor": "1-0",
+      "p_skor": 13.7,
+      "xg_home": 1.58,
+      "xg_away": 0.82
+    },
+    {
+      "tanggal": "2026-06-17",
+      "grup": "L",
+      "home": "Ghana",
+      "away": "Panama",
+      "p_home": 22.2,
+      "p_seri": 23.7,
+      "p_away": 54.1,
+      "skor": "0-1",
+      "p_skor": 11.8,
+      "xg_home": 0.73,
+      "xg_away": 1.85
+    },
+    {
+      "tanggal": "2026-06-18",
+      "grup": "A",
+      "home": "Czech Republic",
+      "away": "South Africa",
+      "p_home": 54.7,
+      "p_seri": 24.3,
+      "p_away": 21.0,
+      "skor": "1-0",
+      "p_skor": 11.5,
+      "xg_home": 1.79,
+      "xg_away": 0.87
+    },
+    {
+      "tanggal": "2026-06-18",
+      "grup": "A",
+      "home": "Mexico",
+      "away": "South Korea",
+      "p_home": 60.2,
+      "p_seri": 22.6,
+      "p_away": 17.2,
+      "skor": "1-0",
+      "p_skor": 15.0,
+      "xg_home": 1.75,
+      "xg_away": 0.65
+    },
+    {
+      "tanggal": "2026-06-18",
+      "grup": "B",
+      "home": "Switzerland",
+      "away": "Bosnia and Herzegovina",
+      "p_home": 68.4,
+      "p_seri": 19.2,
+      "p_away": 12.4,
+      "skor": "2-0",
+      "p_skor": 12.2,
+      "xg_home": 2.31,
+      "xg_away": 0.7
+    },
+    {
+      "tanggal": "2026-06-18",
+      "grup": "B",
+      "home": "Canada",
+      "away": "Qatar",
+      "p_home": 75.8,
+      "p_seri": 15.3,
+      "p_away": 8.9,
+      "skor": "2-0",
+      "p_skor": 16.3,
+      "xg_home": 2.32,
+      "xg_away": 0.42
+    },
+    {
+      "tanggal": "2026-06-19",
+      "grup": "D",
+      "home": "Turkey",
+      "away": "Paraguay",
+      "p_home": 46.1,
+      "p_seri": 26.1,
+      "p_away": 27.8,
+      "skor": "1-1",
+      "p_skor": 12.4,
+      "xg_home": 1.51,
+      "xg_away": 1.12
+    },
+    {
+      "tanggal": "2026-06-19",
+      "grup": "C",
+      "home": "Scotland",
+      "away": "Morocco",
+      "p_home": 28.3,
+      "p_seri": 25.7,
+      "p_away": 46.0,
+      "skor": "1-1",
+      "p_skor": 12.2,
+      "xg_home": 1.0,
+      "xg_away": 1.56
+    },
+    {
+      "tanggal": "2026-06-19",
+      "grup": "C",
+      "home": "Brazil",
+      "away": "Haiti",
+      "p_home": 72.0,
+      "p_seri": 17.4,
+      "p_away": 10.6,
+      "skor": "2-0",
+      "p_skor": 10.9,
+      "xg_home": 2.74,
+      "xg_away": 0.7
+    },
+    {
+      "tanggal": "2026-06-19",
+      "grup": "D",
+      "home": "United States",
+      "away": "Australia",
+      "p_home": 43.5,
+      "p_seri": 26.4,
+      "p_away": 30.1,
+      "skor": "1-1",
+      "p_skor": 12.5,
+      "xg_home": 1.31,
+      "xg_away": 1.35
+    },
+    {
+      "tanggal": "2026-06-20",
+      "grup": "F",
+      "home": "Netherlands",
+      "away": "Sweden",
+      "p_home": 63.6,
+      "p_seri": 21.3,
+      "p_away": 15.1,
+      "skor": "1-0",
+      "p_skor": 12.1,
+      "xg_home": 1.95,
+      "xg_away": 0.83
+    },
+    {
+      "tanggal": "2026-06-20",
+      "grup": "F",
+      "home": "Tunisia",
+      "away": "Japan",
+      "p_home": 20.6,
+      "p_seri": 23.0,
+      "p_away": 56.4,
+      "skor": "0-1",
+      "p_skor": 13.2,
+      "xg_home": 0.61,
+      "xg_away": 1.85
+    },
+    {
+      "tanggal": "2026-06-20",
+      "grup": "E",
+      "home": "Germany",
+      "away": "Ivory Coast",
+      "p_home": 59.4,
+      "p_seri": 22.9,
+      "p_away": 17.7,
+      "skor": "1-0",
+      "p_skor": 11.6,
+      "xg_home": 1.81,
+      "xg_away": 0.98
+    },
+    {
+      "tanggal": "2026-06-20",
+      "grup": "E",
+      "home": "Ecuador",
+      "away": "Curaçao",
+      "p_home": 75.3,
+      "p_seri": 15.6,
+      "p_away": 9.1,
+      "skor": "2-0",
+      "p_skor": 13.1,
+      "xg_home": 2.67,
+      "xg_away": 0.54
+    },
+    {
+      "tanggal": "2026-06-21",
+      "grup": "G",
+      "home": "Belgium",
+      "away": "Iran",
+      "p_home": 47.0,
+      "p_seri": 25.9,
+      "p_away": 27.1,
+      "skor": "1-1",
+      "p_skor": 12.2,
+      "xg_home": 1.68,
+      "xg_away": 1.18
+    },
+    {
+      "tanggal": "2026-06-21",
+      "grup": "G",
+      "home": "New Zealand",
+      "away": "Egypt",
+      "p_home": 33.6,
+      "p_seri": 26.5,
+      "p_away": 39.9,
+      "skor": "1-1",
+      "p_skor": 12.6,
+      "xg_home": 1.07,
+      "xg_away": 1.54
+    },
+    {
+      "tanggal": "2026-06-21",
+      "grup": "H",
+      "home": "Spain",
+      "away": "Saudi Arabia",
+      "p_home": 79.6,
+      "p_seri": 12.8,
+      "p_away": 7.5,
+      "skor": "2-0",
+      "p_skor": 16.0,
+      "xg_home": 2.57,
+      "xg_away": 0.41
+    },
+    {
+      "tanggal": "2026-06-21",
+      "grup": "H",
+      "home": "Uruguay",
+      "away": "Cape Verde",
+      "p_home": 69.6,
+      "p_seri": 18.7,
+      "p_away": 11.8,
+      "skor": "2-0",
+      "p_skor": 12.3,
+      "xg_home": 2.33,
+      "xg_away": 0.71
+    },
+    {
+      "tanggal": "2026-06-22",
+      "grup": "I",
+      "home": "France",
+      "away": "Iraq",
+      "p_home": 73.5,
+      "p_seri": 16.6,
+      "p_away": 9.9,
+      "skor": "2-0",
+      "p_skor": 11.8,
+      "xg_home": 2.52,
+      "xg_away": 0.74
+    },
+    {
+      "tanggal": "2026-06-22",
+      "grup": "I",
+      "home": "Norway",
+      "away": "Senegal",
+      "p_home": 46.8,
+      "p_seri": 26.0,
+      "p_away": 27.2,
+      "skor": "1-1",
+      "p_skor": 12.3,
+      "xg_home": 1.58,
+      "xg_away": 0.94
+    },
+    {
+      "tanggal": "2026-06-22",
+      "grup": "J",
+      "home": "Argentina",
+      "away": "Austria",
+      "p_home": 68.1,
+      "p_seri": 19.4,
+      "p_away": 12.5,
+      "skor": "2-0",
+      "p_skor": 13.1,
+      "xg_home": 2.16,
+      "xg_away": 0.66
+    },
+    {
+      "tanggal": "2026-06-22",
+      "grup": "J",
+      "home": "Jordan",
+      "away": "Algeria",
+      "p_home": 30.9,
+      "p_seri": 26.2,
+      "p_away": 42.9,
+      "skor": "1-1",
+      "p_skor": 12.4,
+      "xg_home": 1.06,
+      "xg_away": 1.7
+    },
+    {
+      "tanggal": "2026-06-23",
+      "grup": "K",
+      "home": "Portugal",
+      "away": "Uzbekistan",
+      "p_home": 62.4,
+      "p_seri": 21.8,
+      "p_away": 15.8,
+      "skor": "1-0",
+      "p_skor": 11.7,
+      "xg_home": 1.98,
+      "xg_away": 0.81
+    },
+    {
+      "tanggal": "2026-06-23",
+      "grup": "K",
+      "home": "Colombia",
+      "away": "DR Congo",
+      "p_home": 68.1,
+      "p_seri": 19.4,
+      "p_away": 12.5,
+      "skor": "2-0",
+      "p_skor": 12.7,
+      "xg_home": 2.06,
+      "xg_away": 0.77
+    },
+    {
+      "tanggal": "2026-06-23",
+      "grup": "L",
+      "home": "England",
+      "away": "Ghana",
+      "p_home": 77.3,
+      "p_seri": 14.4,
+      "p_away": 8.4,
+      "skor": "2-0",
+      "p_skor": 15.0,
+      "xg_home": 2.38,
+      "xg_away": 0.54
+    },
+    {
+      "tanggal": "2026-06-23",
+      "grup": "L",
+      "home": "Panama",
+      "away": "Croatia",
+      "p_home": 30.4,
+      "p_seri": 26.1,
+      "p_away": 43.5,
+      "skor": "1-1",
+      "p_skor": 12.4,
+      "xg_home": 1.02,
+      "xg_away": 1.78
+    },
+    {
+      "tanggal": "2026-06-24",
+      "grup": "C",
+      "home": "Morocco",
+      "away": "Haiti",
+      "p_home": 66.5,
+      "p_seri": 20.1,
+      "p_away": 13.4,
+      "skor": "2-0",
+      "p_skor": 12.4,
+      "xg_home": 2.34,
+      "xg_away": 0.63
+    },
+    {
+      "tanggal": "2026-06-24",
+      "grup": "B",
+      "home": "Bosnia and Herzegovina",
+      "away": "Qatar",
+      "p_home": 49.6,
+      "p_seri": 25.5,
+      "p_away": 24.9,
+      "skor": "1-0",
+      "p_skor": 14.7,
+      "xg_home": 1.29,
+      "xg_away": 1.04
+    },
+    {
+      "tanggal": "2026-06-24",
+      "grup": "C",
+      "home": "Scotland",
+      "away": "Brazil",
+      "p_home": 22.4,
+      "p_seri": 23.8,
+      "p_away": 53.8,
+      "skor": "1-1",
+      "p_skor": 11.3,
+      "xg_home": 0.72,
+      "xg_away": 2.13
+    },
+    {
+      "tanggal": "2026-06-24",
+      "grup": "A",
+      "home": "South Africa",
+      "away": "South Korea",
+      "p_home": 22.8,
+      "p_seri": 24.0,
+      "p_away": 53.2,
+      "skor": "0-1",
+      "p_skor": 12.8,
+      "xg_home": 0.78,
+      "xg_away": 1.7
+    },
+    {
+      "tanggal": "2026-06-24",
+      "grup": "A",
+      "home": "Mexico",
+      "away": "Czech Republic",
+      "p_home": 66.5,
+      "p_seri": 20.1,
+      "p_away": 13.4,
+      "skor": "1-0",
+      "p_skor": 16.5,
+      "xg_home": 1.67,
+      "xg_away": 0.76
+    },
+    {
+      "tanggal": "2026-06-24",
+      "grup": "B",
+      "home": "Canada",
+      "away": "Switzerland",
+      "p_home": 45.3,
+      "p_seri": 26.2,
+      "p_away": 28.5,
+      "skor": "1-1",
+      "p_skor": 12.4,
+      "xg_home": 1.44,
+      "xg_away": 1.0
+    },
+    {
+      "tanggal": "2026-06-25",
+      "grup": "D",
+      "home": "United States",
+      "away": "Turkey",
+      "p_home": 36.9,
+      "p_seri": 26.7,
+      "p_away": 36.4,
+      "skor": "1-1",
+      "p_skor": 11.6,
+      "xg_home": 1.5,
+      "xg_away": 1.82
+    },
+    {
+      "tanggal": "2026-06-25",
+      "grup": "D",
+      "home": "Paraguay",
+      "away": "Australia",
+      "p_home": 42.7,
+      "p_seri": 26.5,
+      "p_away": 30.8,
+      "skor": "1-0",
+      "p_skor": 14.8,
+      "xg_home": 1.04,
+      "xg_away": 1.22
+    },
+    {
+      "tanggal": "2026-06-25",
+      "grup": "E",
+      "home": "Curaçao",
+      "away": "Ivory Coast",
+      "p_home": 23.4,
+      "p_seri": 24.2,
+      "p_away": 52.4,
+      "skor": "0-1",
+      "p_skor": 12.4,
+      "xg_home": 0.72,
+      "xg_away": 1.76
+    },
+    {
+      "tanggal": "2026-06-25",
+      "grup": "E",
+      "home": "Ecuador",
+      "away": "Germany",
+      "p_home": 43.4,
+      "p_seri": 26.4,
+      "p_away": 30.2,
+      "skor": "1-0",
+      "p_skor": 19.6,
+      "xg_home": 0.82,
+      "xg_away": 1.05
+    },
+    {
+      "tanggal": "2026-06-25",
+      "grup": "F",
+      "home": "Japan",
+      "away": "Sweden",
+      "p_home": 62.2,
+      "p_seri": 21.9,
+      "p_away": 15.9,
+      "skor": "1-0",
+      "p_skor": 13.2,
+      "xg_home": 1.82,
+      "xg_away": 0.83
+    },
+    {
+      "tanggal": "2026-06-25",
+      "grup": "F",
+      "home": "Tunisia",
+      "away": "Netherlands",
+      "p_home": 19.7,
+      "p_seri": 22.5,
+      "p_away": 57.8,
+      "skor": "0-1",
+      "p_skor": 13.1,
+      "xg_home": 0.67,
+      "xg_away": 1.85
+    },
+    {
+      "tanggal": "2026-06-26",
+      "grup": "I",
+      "home": "Senegal",
+      "away": "Iraq",
+      "p_home": 58.1,
+      "p_seri": 23.3,
+      "p_away": 18.6,
+      "skor": "1-0",
+      "p_skor": 13.1,
+      "xg_home": 1.75,
+      "xg_away": 0.82
+    },
+    {
+      "tanggal": "2026-06-26",
+      "grup": "I",
+      "home": "Norway",
+      "away": "France",
+      "p_home": 27.3,
+      "p_seri": 25.5,
+      "p_away": 47.2,
+      "skor": "1-1",
+      "p_skor": 12.1,
+      "xg_home": 0.99,
+      "xg_away": 1.58
+    },
+    {
+      "tanggal": "2026-06-26",
+      "grup": "H",
+      "home": "Uruguay",
+      "away": "Spain",
+      "p_home": 21.3,
+      "p_seri": 23.3,
+      "p_away": 55.4,
+      "skor": "0-1",
+      "p_skor": 12.9,
+      "xg_home": 0.68,
+      "xg_away": 1.81
+    },
+    {
+      "tanggal": "2026-06-26",
+      "grup": "G",
+      "home": "New Zealand",
+      "away": "Belgium",
+      "p_home": 22.4,
+      "p_seri": 23.8,
+      "p_away": 53.8,
+      "skor": "1-1",
+      "p_skor": 11.3,
+      "xg_home": 0.63,
+      "xg_away": 2.29
+    },
+    {
+      "tanggal": "2026-06-26",
+      "grup": "G",
+      "home": "Egypt",
+      "away": "Iran",
+      "p_home": 32.9,
+      "p_seri": 26.4,
+      "p_away": 40.7,
+      "skor": "0-1",
+      "p_skor": 13.5,
+      "xg_home": 0.99,
+      "xg_away": 1.2
+    },
+    {
+      "tanggal": "2026-06-26",
+      "grup": "H",
+      "home": "Cape Verde",
+      "away": "Saudi Arabia",
+      "p_home": 37.2,
+      "p_seri": 26.7,
+      "p_away": 36.1,
+      "skor": "1-1",
+      "p_skor": 12.7,
+      "xg_home": 1.24,
+      "xg_away": 1.33
+    },
+    {
+      "tanggal": "2026-06-27",
+      "grup": "L",
+      "home": "Panama",
+      "away": "England",
+      "p_home": 21.7,
+      "p_seri": 23.5,
+      "p_away": 54.8,
+      "skor": "1-1",
+      "p_skor": 11.2,
+      "xg_home": 0.82,
+      "xg_away": 2.09
+    },
+    {
+      "tanggal": "2026-06-27",
+      "grup": "J",
+      "home": "Algeria",
+      "away": "Austria",
+      "p_home": 40.5,
+      "p_seri": 26.6,
+      "p_away": 32.9,
+      "skor": "1-1",
+      "p_skor": 12.6,
+      "xg_home": 1.21,
+      "xg_away": 1.23
+    },
+    {
+      "tanggal": "2026-06-27",
+      "grup": "J",
+      "home": "Jordan",
+      "away": "Argentina",
+      "p_home": 14.3,
+      "p_seri": 18.0,
+      "p_away": 67.6,
+      "skor": "0-2",
+      "p_skor": 13.2,
+      "xg_home": 0.43,
+      "xg_away": 2.6
+    },
+    {
+      "tanggal": "2026-06-27",
+      "grup": "K",
+      "home": "Colombia",
+      "away": "Portugal",
+      "p_home": 42.8,
+      "p_seri": 26.5,
+      "p_away": 30.7,
+      "skor": "1-1",
+      "p_skor": 12.6,
+      "xg_home": 1.36,
+      "xg_away": 1.32
+    },
+    {
+      "tanggal": "2026-06-27",
+      "grup": "K",
+      "home": "DR Congo",
+      "away": "Uzbekistan",
+      "p_home": 35.5,
+      "p_seri": 26.6,
+      "p_away": 37.8,
+      "skor": "1-0",
+      "p_skor": 12.9,
+      "xg_home": 0.98,
+      "xg_away": 1.25
+    },
+    {
+      "tanggal": "2026-06-27",
+      "grup": "L",
+      "home": "Croatia",
+      "away": "Ghana",
+      "p_home": 71.0,
+      "p_seri": 18.0,
+      "p_away": 11.1,
+      "skor": "2-0",
+      "p_skor": 13.4,
+      "xg_home": 2.29,
+      "xg_away": 0.63
+    }
+  ],
+  "modal_bracket": {
+    "32 Besar": [
+      {
+        "match": 73,
+        "home": "South Korea",
+        "away": "Switzerland",
+        "winner": "Switzerland",
+        "p_winner": 0.513
+      },
+      {
+        "match": 74,
+        "home": "Ecuador",
+        "away": "Czech Republic",
+        "winner": "Ecuador",
+        "p_winner": 0.662
+      },
+      {
+        "match": 75,
+        "home": "Netherlands",
+        "away": "Morocco",
+        "winner": "Morocco",
+        "p_winner": 0.53
+      },
+      {
+        "match": 76,
+        "home": "Brazil",
+        "away": "Japan",
+        "winner": "Brazil",
+        "p_winner": 0.627
+      },
+      {
+        "match": 77,
+        "home": "France",
+        "away": "Paraguay",
+        "winner": "France",
+        "p_winner": 0.731
+      },
+      {
+        "match": 78,
+        "home": "Germany",
+        "away": "Norway",
+        "winner": "Germany",
+        "p_winner": 0.59
+      },
+      {
+        "match": 79,
+        "home": "Mexico",
+        "away": "Scotland",
+        "winner": "Mexico",
+        "p_winner": 0.737
+      },
+      {
+        "match": 80,
+        "home": "England",
+        "away": "Ivory Coast",
+        "winner": "England",
+        "p_winner": 0.768
+      },
+      {
+        "match": 81,
+        "home": "United States",
+        "away": "Senegal",
+        "winner": "United States",
+        "p_winner": 0.554
+      },
+      {
+        "match": 82,
+        "home": "Belgium",
+        "away": "Algeria",
+        "winner": "Belgium",
+        "p_winner": 0.546
+      },
+      {
+        "match": 83,
+        "home": "Portugal",
+        "away": "Croatia",
+        "winner": "Portugal",
+        "p_winner": 0.534
+      },
+      {
+        "match": 84,
+        "home": "Spain",
+        "away": "Austria",
+        "winner": "Spain",
+        "p_winner": 0.752
+      },
+      {
+        "match": 85,
+        "home": "Canada",
+        "away": "Egypt",
+        "winner": "Canada",
+        "p_winner": 0.702
+      },
+      {
+        "match": 86,
+        "home": "Argentina",
+        "away": "Uruguay",
+        "winner": "Argentina",
+        "p_winner": 0.745
+      },
+      {
+        "match": 87,
+        "home": "Colombia",
+        "away": "Panama",
+        "winner": "Colombia",
+        "p_winner": 0.729
+      },
+      {
+        "match": 88,
+        "home": "Turkey",
+        "away": "Iran",
+        "winner": "Turkey",
+        "p_winner": 0.543
+      }
+    ],
+    "16 Besar": [
+      {
+        "match": 89,
+        "home": "Ecuador",
+        "away": "France",
+        "winner": "France",
+        "p_winner": 0.553
+      },
+      {
+        "match": 90,
+        "home": "Switzerland",
+        "away": "Morocco",
+        "winner": "Morocco",
+        "p_winner": 0.581
+      },
+      {
+        "match": 91,
+        "home": "Brazil",
+        "away": "Germany",
+        "winner": "Brazil",
+        "p_winner": 0.599
+      },
+      {
+        "match": 92,
+        "home": "Mexico",
+        "away": "England",
+        "winner": "Mexico",
+        "p_winner": 0.536
+      },
+      {
+        "match": 93,
+        "home": "Portugal",
+        "away": "Spain",
+        "winner": "Spain",
+        "p_winner": 0.62
+      },
+      {
+        "match": 94,
+        "home": "United States",
+        "away": "Belgium",
+        "winner": "Belgium",
+        "p_winner": 0.502
+      },
+      {
+        "match": 95,
+        "home": "Argentina",
+        "away": "Turkey",
+        "winner": "Argentina",
+        "p_winner": 0.744
+      },
+      {
+        "match": 96,
+        "home": "Canada",
+        "away": "Colombia",
+        "winner": "Colombia",
+        "p_winner": 0.542
+      }
+    ],
+    "Perempat Final": [
+      {
+        "match": 97,
+        "home": "France",
+        "away": "Morocco",
+        "winner": "France",
+        "p_winner": 0.68
+      },
+      {
+        "match": 98,
+        "home": "Spain",
+        "away": "Belgium",
+        "winner": "Spain",
+        "p_winner": 0.687
+      },
+      {
+        "match": 99,
+        "home": "Brazil",
+        "away": "Mexico",
+        "winner": "Mexico",
+        "p_winner": 0.544
+      },
+      {
+        "match": 100,
+        "home": "Argentina",
+        "away": "Colombia",
+        "winner": "Argentina",
+        "p_winner": 0.671
+      }
+    ],
+    "Semifinal": [
+      {
+        "match": 101,
+        "home": "France",
+        "away": "Spain",
+        "winner": "Spain",
+        "p_winner": 0.555
+      },
+      {
+        "match": 102,
+        "home": "Mexico",
+        "away": "Argentina",
+        "winner": "Argentina",
+        "p_winner": 0.584
+      }
+    ],
+    "Final": [
+      {
+        "match": 104,
+        "home": "Spain",
+        "away": "Argentina",
+        "winner": "Argentina",
+        "p_winner": 0.524
+      }
+    ]
+  },
+  "team_group": {
+    "Algeria": "J",
+    "Argentina": "J",
+    "Australia": "D",
+    "Austria": "J",
+    "Belgium": "G",
+    "Bosnia and Herzegovina": "B",
+    "Brazil": "C",
+    "Canada": "B",
+    "Cape Verde": "H",
+    "Colombia": "K",
+    "Croatia": "L",
+    "Curaçao": "E",
+    "Czech Republic": "A",
+    "DR Congo": "K",
+    "Ecuador": "E",
+    "Egypt": "G",
+    "England": "L",
+    "France": "I",
+    "Germany": "E",
+    "Ghana": "L",
+    "Haiti": "C",
+    "Iran": "G",
+    "Iraq": "I",
+    "Ivory Coast": "E",
+    "Japan": "F",
+    "Jordan": "J",
+    "Mexico": "A",
+    "Morocco": "C",
+    "Netherlands": "F",
+    "New Zealand": "G",
+    "Norway": "I",
+    "Panama": "L",
+    "Paraguay": "D",
+    "Portugal": "K",
+    "Qatar": "B",
+    "Saudi Arabia": "H",
+    "Scotland": "C",
+    "Senegal": "I",
+    "South Africa": "A",
+    "South Korea": "A",
+    "Spain": "H",
+    "Sweden": "F",
+    "Switzerland": "B",
+    "Tunisia": "F",
+    "Turkey": "D",
+    "United States": "D",
+    "Uruguay": "H",
+    "Uzbekistan": "K"
+  },
+  "elo": {
+    "Algeria": 1884,
+    "Argentina": 2190,
+    "Australia": 1902,
+    "Austria": 1890,
+    "Belgium": 1957,
+    "Bosnia and Herzegovina": 1652,
+    "Brazil": 2069,
+    "Canada": 1899,
+    "Cape Verde": 1654,
+    "Colombia": 2064,
+    "Croatia": 1969,
+    "Curaçao": 1606,
+    "Czech Republic": 1802,
+    "DR Congo": 1763,
+    "Ecuador": 2028,
+    "Egypt": 1810,
+    "England": 2091,
+    "France": 2125,
+    "Germany": 2005,
+    "Ghana": 1625,
+    "Haiti": 1707,
+    "Iran": 1897,
+    "Iraq": 1738,
+    "Ivory Coast": 1815,
+    "Japan": 1994,
+    "Jordan": 1775,
+    "Mexico": 1980,
+    "Morocco": 1985,
+    "Netherlands": 2011,
+    "New Zealand": 1732,
+    "Norway": 1972,
+    "Panama": 1854,
+    "Paraguay": 1919,
+    "Portugal": 2046,
+    "Qatar": 1566,
+    "Saudi Arabia": 1693,
+    "Scotland": 1844,
+    "Senegal": 1914,
+    "South Africa": 1663,
+    "South Korea": 1881,
+    "Spain": 2219,
+    "Sweden": 1771,
+    "Switzerland": 1956,
+    "Tunisia": 1738,
+    "Turkey": 1969,
+    "United States": 1827,
+    "Uruguay": 1975,
+    "Uzbekistan": 1821
+  }
+}

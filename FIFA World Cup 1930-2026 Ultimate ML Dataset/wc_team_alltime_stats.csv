@@ -1,0 +1,44 @@
+team,confederation,total_wc_appearances,total_matches,total_wins,total_draws,total_losses,total_goals_scored,total_goals_conceded,goal_difference,win_rate,best_finish,titles,finals_reached,semis_reached,quarters_reached,last_wc_year,first_wc_year,consecutive_appearances_current,host_times,elo_peak_approx,notes
+Brazil,CONMEBOL,22,114,76,18,20,237,108,129,0.667,Winner,5,7,11,14,2022,1930,22,1,2050,Only team in every WC; 5 titles most all-time
+Germany,UEFA,20,109,67,19,23,226,127,99,0.615,Winner,4,8,13,16,2022,1934,7,1,1990,Includes West Germany titles 1954/1974; most finals appearances (8)
+Italy,UEFA,18,83,45,21,17,128,77,51,0.542,Winner,4,6,11,13,2022,1934,5,1,1980,Dominant 1930s/1980s era; 2006 last title
+Argentina,CONMEBOL,18,88,46,16,26,145,97,48,0.523,Winner,3,6,12,15,2022,1930,5,1,1980,Messi era 2-time finalist; 3 titles total
+France,UEFA,16,73,41,15,17,135,75,60,0.562,Winner,2,3,6,10,2022,1930,6,1,1980,1998+2018 titles; Mbappé era peaking
+Spain,UEFA,16,67,36,14,17,104,72,32,0.537,Winner,1,2,3,8,2022,1934,8,1,1990,2010 first title; historically underperformed relative to talent
+England,UEFA,16,69,29,20,20,84,64,20,0.420,Winner,1,1,3,8,2022,1950,8,1,1940,1966 only title; semi-final exits 1990/2018/2022
+Uruguay,CONMEBOL,14,57,30,11,16,90,67,23,0.526,Winner,2,2,4,8,2022,1930,3,0,1990,2 early titles; resurgent 2010 with Suárez/Forlán
+Netherlands,UEFA,11,52,27,12,13,93,58,35,0.519,Winner,0,3,4,7,2022,1934,8,0,1960,3 finals; never won; Total Football legacy
+Mexico,CONCACAF,17,60,16,13,31,62,101,-39,0.267,Quarter-finals,0,0,0,3,2022,1930,9,2,1780,Consistent qualifier but QF ceiling; hosts 2026
+Russia,UEFA,11,40,17,7,16,64,60,4,0.425,Fourth place,0,0,1,2,2022,1958,1,1,1730,As Soviet Union: 4th in 1966; hosts QF in 2018
+Belgium,UEFA,14,51,24,8,19,79,68,11,0.471,Third place,0,0,2,5,2022,1930,9,0,1930,2018 best ever; De Bruyne generation; now or never
+Portugal,UEFA,8,44,26,8,10,81,42,39,0.591,Third place,0,0,2,4,2022,1966,4,0,1940,1966 Eusébio; 2006 Figo/Ronaldo; still finals elusive
+Croatia,UEFA,8,43,22,11,10,66,50,16,0.512,Runner-up,0,1,3,3,2022,1998,5,0,1880,Incredible small nation; Modrić era remarkable
+Poland,UEFA,9,33,16,5,12,45,45,0,0.485,Third place,0,0,2,3,1986,1938,1,0,1880,1974/1982 strong; Lewandowski era disappointing
+Sweden,UEFA,12,51,18,13,20,74,69,5,0.353,Runner-up,0,1,3,4,2018,1934,1,0,1820,1958 runners-up; consistent; 2026 return with Isak
+Yugoslavia,UEFA,8,37,17,7,13,60,46,14,0.459,Fourth place,0,0,2,5,1998,1930,0,0,1860,Nation dissolved; successor states now separate
+Hungary,UEFA,9,32,15,3,14,87,57,30,0.469,Runner-up,0,2,2,3,1986,1934,0,0,1930,Golden Team 1950s; Puskás era; major decline since
+Turkey,UEFA,3,15,7,1,7,26,24,2,0.467,Third place,0,0,1,1,2002,1954,0,0,1870,2002 brilliant debut; 2026 return after playoff
+Chile,CONMEBOL,9,38,17,7,14,63,70,-7,0.447,Third place,0,0,1,2,2014,1930,0,1,1830,1962 hosts reached 3rd; 2010 QF; Copa América power
+Japan,AFC,8,31,9,6,16,33,47,-14,0.290,Round of 16,0,0,0,0,2022,1998,6,0,1800,Consistent since 1998; PK heartbreaks vs Croatia/Belgium
+Morocco,CAF,6,22,8,7,7,20,13,7,0.364,Semi-finals,0,0,1,1,2022,1970,3,0,1860,2022 revolution; best African team ever at WC
+South Korea,AFC,11,37,10,9,18,45,69,-24,0.270,Semi-finals,0,0,1,1,2022,1954,8,1,1790,2002 co-host magic; consistent R16 team
+United States,CONCACAF,11,41,11,9,21,43,72,-29,0.268,Third place,0,0,1,2,2022,1930,5,1,1790,Best team of all-time in 2026; hosts
+Colombia,CONMEBOL,6,27,12,4,11,36,29,7,0.444,Quarter-finals,0,0,0,1,2018,1962,3,0,1870,James 2014 iconic; Díaz generation promising
+Peru,CONMEBOL,5,15,4,3,8,19,31,-12,0.267,Quarter-finals,0,0,0,1,1982,1930,0,0,1760,2018 return; 1970/1978 QFs best era
+Paraguay,CONMEBOL,9,38,9,17,12,37,49,-12,0.237,Quarter-finals,0,0,0,1,2010,1930,2,0,1780,2010 QF; always competitive; 2026 with Almirón
+Australia,AFC,6,24,6,4,14,30,52,-22,0.250,Round of 16,0,0,0,0,2022,1974,5,0,1720,2006 R16 under Hiddink; consistent modern era
+Senegal,CAF,4,18,7,5,6,19,16,3,0.389,Quarter-finals,0,0,0,1,2022,2002,2,0,1780,2002 QF debut; 2021 AFCON champions; rising
+Ghana,CAF,4,17,5,4,8,15,22,-7,0.294,Quarter-finals,0,0,0,1,2014,2006,1,0,1720,2010 near semi; Suárez handball; Kudus era promising
+Ivory Coast,CAF,3,10,1,3,6,7,16,-9,0.100,Group stage,0,0,0,0,2014,2006,0,0,1720,Drogba era wasted by hard groups
+Iran,AFC,6,18,3,3,12,13,34,-21,0.167,Group stage,0,0,0,0,2022,1978,6,0,1730,Consistent Asian qualifier; Taremi era
+Saudi Arabia,AFC,6,19,4,3,12,16,41,-25,0.211,Round of 16,0,0,0,1,2022,1994,4,0,1650,1994 R16; 2022 upset Argentina; improving
+Ecuador,CONMEBOL,4,13,4,2,7,14,16,-2,0.308,Round of 16,0,0,0,0,2014,2002,2,0,1730,2006 R16; Caicedo generation could go far
+Algeria,CAF,4,13,4,2,7,10,16,-6,0.308,Round of 16,0,0,0,0,2014,1982,0,0,1710,2014 R16; 2026 Mahrez/Aouar generation
+Egypt,CAF,3,8,0,3,5,4,12,-8,0.000,Group stage,0,0,0,0,2018,1934,0,0,1700,Mo Salah's only WC likely; historic nation
+Tunisia,CAF,6,18,2,4,12,10,34,-24,0.111,Group stage,0,0,0,0,2022,1978,4,0,1650,6 WCs never past groups; tough luck or limitation
+New Zealand,OFC,2,7,1,0,6,5,22,-17,0.143,Group stage,0,0,0,0,2010,1982,0,0,1570,Only OFC team; game results irrelevant vs quality gap
+Norway,UEFA,3,11,5,1,5,11,9,2,0.455,Quarter-finals,0,0,0,1,1998,1938,0,0,1820,1994/1998 competitive; Haaland changes everything
+Scotland,UEFA,8,23,4,7,12,25,41,-16,0.174,Group stage,0,0,0,0,1998,1954,0,0,1790,8 WCs never past groups; 28-year wait ends 2026
+Bulgaria,UEFA,7,26,7,6,13,27,35,-8,0.269,Fourth place,0,0,0,1,1998,1962,0,0,1820,1994 Stoichkov golden era; declined since
+Romania,UEFA,7,21,8,3,10,30,32,-2,0.381,Quarter-finals,0,0,0,1,1994,1930,0,0,1820,1994 Hagi golden era; 2000s collapse
+Czech Republic,UEFA,4,16,6,2,8,17,25,-8,0.375,Runner-up,0,2,2,2,2006,1934,0,0,1840,As Czechoslovakia: 2 finals; modern era 1 group stage

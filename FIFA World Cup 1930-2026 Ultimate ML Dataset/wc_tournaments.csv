@@ -1,0 +1,23 @@
+wc_year,host_nation,dates,total_teams,total_matches,total_goals,goals_per_match,avg_attendance,champion,runner_up,third_place,fourth_place,top_scorer,top_scorer_goals,format_era
+1930,Uruguay,13-30 Jul,13,18,70,3.89,32808,Uruguay,Argentina,United States,Yugoslavia,Guillermo Stábile,8,Pre-Group
+1934,Italy,27 May-10 Jun,16,17,70,4.12,21352,Italy,Czechoslovakia,Germany,Austria,Oldřich Nejedlý,5,Knockout-Only
+1938,France,4-19 Jun,15,18,84,4.67,20849,Italy,Hungary,Brazil,Sweden,Leônidas,7,Knockout-Only
+1950,Brazil,24 Jun-16 Jul,13,22,88,4.00,47511,Uruguay,Brazil,Sweden,Spain,Ademir,9,Final-RoundRobin
+1954,Switzerland,16 Jun-4 Jul,16,26,140,5.38,29434,West Germany,Hungary,Austria,Uruguay,Sándor Kocsis,11,Groups+KO
+1958,Sweden,8-29 Jun,16,35,126,3.60,23412,Brazil,Sweden,France,West Germany,Just Fontaine,13,Groups+KO
+1962,Chile,30 May-17 Jun,16,32,89,2.78,27912,Brazil,Czechoslovakia,Chile,Yugoslavia,Garrincha/Vavá/Sánchez/Ivanov/Albert/Jerkovic,4,Groups+KO
+1966,England,11 Jul-30 Jul,16,32,89,2.78,50458,England,West Germany,Portugal,Soviet Union,Eusébio,9,Groups+KO
+1970,Mexico,31 May-21 Jun,16,32,95,2.97,52312,Brazil,Italy,West Germany,Uruguay,Gerd Müller,10,Groups+KO
+1974,West Germany,13 Jun-7 Jul,16,38,97,2.55,46685,West Germany,Netherlands,Poland,Brazil,Grzegorz Lato,7,Groups+KO
+1978,Argentina,1-25 Jun,16,38,102,2.68,40678,Argentina,Netherlands,Brazil,Italy,Mario Kempes,6,Groups+KO
+1982,Spain,13 Jun-11 Jul,24,52,146,2.81,33967,Italy,West Germany,Poland,France,Paolo Rossi,6,Groups+KO
+1986,Mexico,31 May-29 Jun,24,52,132,2.54,46039,Argentina,West Germany,France,Belgium,Gary Lineker,6,Groups+KO
+1990,Italy,8 Jun-8 Jul,24,52,115,2.21,48389,West Germany,Argentina,Italy,England,Salvatore Schillaci,6,Groups+KO
+1994,United States,17 Jun-17 Jul,24,52,141,2.71,68991,Brazil,Italy,Sweden,Bulgaria,Hristo Stoichkov/Oleg Salenko,6,Groups+KO
+1998,France,10 Jun-12 Jul,32,64,171,2.67,43517,France,Brazil,Croatia,Netherlands,Davor Šuker,6,32-team
+2002,South Korea/Japan,31 May-30 Jun,32,64,161,2.52,42269,Brazil,Germany,Turkey,South Korea,Ronaldo,8,32-team
+2006,Germany,9 Jun-9 Jul,32,64,147,2.30,52609,Italy,France,Germany,Portugal,Miroslav Klose,5,32-team
+2010,South Africa,11 Jun-11 Jul,32,64,145,2.27,49669,Spain,Netherlands,Germany,Uruguay,Thomas Müller/David Villa/Wesley Sneijder/Diego Forlán,5,32-team
+2014,Brazil,12 Jun-13 Jul,32,64,171,2.67,53592,Germany,Argentina,Netherlands,Brazil,James Rodríguez,6,32-team
+2018,Russia,14 Jun-15 Jul,32,64,169,2.64,47371,France,Croatia,Belgium,England,Harry Kane,6,32-team
+2022,Qatar,20 Nov-18 Dec,32,64,172,2.69,53191,Argentina,France,Croatia,Morocco,Kylian Mbappé,8,32-team

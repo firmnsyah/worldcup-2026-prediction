@@ -1,0 +1,118 @@
+match_id,wc_year,stage,date,home_team,away_team,home_goals,away_goals,aet,penalties,home_pen_goals,away_pen_goals,stadium,city,home_pre_match_elo,away_pre_match_elo,winning_team,result_type
+WC1930_01,1930,Group Stage,1930-07-13,France,Mexico,4,1,No,No,0,0,Estadio Pocitos,Montevideo,1700,1500,France,Home Win
+WC1930_02,1930,Group Stage,1930-07-13,United States,Belgium,3,0,No,No,0,0,Estadio Pocitos,Montevideo,1600,1680,United States,Home Win
+WC1930_03,1930,Group Stage,1930-07-15,Yugoslavia,Brazil,2,1,No,No,0,0,Estadio Pocitos,Montevideo,1750,1700,Yugoslavia,Home Win
+WC1930_04,1930,Group Stage,1930-07-16,Romania,Peru,3,1,No,No,0,0,Estadio Pocitos,Montevideo,1650,1600,Romania,Home Win
+WC1930_05,1930,Group Stage,1930-07-17,Argentina,France,1,0,No,No,0,0,Estadio Parque Central,Montevideo,1900,1700,Argentina,Home Win
+WC1930_06,1930,Group Stage,1930-07-18,Chile,Mexico,3,0,No,No,0,0,Estadio Pocitos,Montevideo,1620,1500,Chile,Home Win
+WC1930_07,1930,Group Stage,1930-07-19,United States,Paraguay,3,0,No,No,0,0,Estadio Parque Central,Montevideo,1600,1550,United States,Home Win
+WC1930_08,1930,Group Stage,1930-07-19,Yugoslavia,Bolivia,4,0,No,No,0,0,Estadio Pocitos,Montevideo,1750,1450,Yugoslavia,Home Win
+WC1930_09,1930,Group Stage,1930-07-20,Uruguay,Peru,1,0,No,No,0,0,Estadio Centenario,Montevideo,1930,1600,Uruguay,Home Win
+WC1930_10,1930,Group Stage,1930-07-21,Argentina,Mexico,6,3,No,No,0,0,Estadio Pocitos,Montevideo,1900,1500,Argentina,Home Win
+WC1930_11,1930,Group Stage,1930-07-22,Chile,France,1,0,No,No,0,0,Estadio Gran Parque Central,Montevideo,1620,1700,Chile,Away Win
+WC1930_12,1930,Group Stage,1930-07-22,Brazil,Bolivia,4,0,No,No,0,0,Estadio Pocitos,Montevideo,1700,1450,Brazil,Home Win
+WC1930_13,1930,Group Stage,1930-07-26,Uruguay,Romania,4,0,No,No,0,0,Estadio Centenario,Montevideo,1930,1650,Uruguay,Home Win
+WC1930_14,1930,Group Stage,1930-07-26,Argentina,Chile,3,1,No,No,0,0,Estadio Monumental,Montevideo,1900,1620,Argentina,Home Win
+WC1930_15,1930,Group Stage,1930-07-28,Paraguay,Belgium,1,0,No,No,0,0,Estadio Parque Central,Montevideo,1550,1680,Paraguay,Home Win
+WC1930_16,1930,Group Stage,1930-07-30,United States,Argentina,1,6,No,No,0,0,Estadio Centenario,Montevideo,1600,1900,Argentina,Away Win
+WC1930_17,1930,Semi-final,1930-07-26,Uruguay,Yugoslavia,6,1,No,No,0,0,Estadio Centenario,Montevideo,1930,1750,Uruguay,Home Win
+WC1930_18,1930,Final,1930-07-30,Uruguay,Argentina,4,2,No,No,0,0,Estadio Centenario,Montevideo,1930,1900,Uruguay,Home Win
+WC1950_F1,1950,Group Stage,1950-06-24,Brazil,Mexico,4,0,No,No,0,0,Maracanã,Rio de Janeiro,1900,1520,Brazil,Home Win
+WC1950_F2,1950,Group Stage,1950-06-25,Spain,United States,3,1,No,No,0,0,Estadio Independencia,Belo Horizonte,1820,1700,Spain,Home Win
+WC1950_F3,1950,Group Stage,1950-06-25,England,Chile,2,0,No,No,0,0,Maracanã,Rio de Janeiro,1800,1720,England,Home Win
+WC1950_F4,1950,Group Stage,1950-06-28,United States,England,1,0,No,No,0,0,Estadio Independencia,Belo Horizonte,1700,1800,United States,Away Win
+WC1950_F5,1950,Group Stage,1950-06-29,Brazil,Switzerland,2,2,No,No,0,0,Estadio Pacaembu,São Paulo,1900,1730,Draw,Draw
+WC1950_F6,1950,Group Stage,1950-07-02,Brazil,Yugoslavia,2,0,No,No,0,0,Maracanã,Rio de Janeiro,1900,1780,Brazil,Home Win
+WC1950_F7,1950,Group Stage,1950-07-13,Uruguay,Bolivia,8,0,No,No,0,0,Estadio Independencia,Belo Horizonte,1990,1450,Uruguay,Home Win
+WC1950_F8,1950,Final Round,1950-07-09,Brazil,Sweden,7,1,No,No,0,0,Maracanã,Rio de Janeiro,1900,1770,Brazil,Home Win
+WC1950_F9,1950,Final Round,1950-07-13,Uruguay,Sweden,3,2,No,No,0,0,Estadio São Januário,Rio de Janeiro,1990,1770,Uruguay,Home Win
+WC1950_FINAL,1950,Final Round,1950-07-16,Uruguay,Brazil,2,1,No,No,0,0,Maracanã,Rio de Janeiro,1990,1900,Uruguay,Away Win
+WC1954_F1,1954,Group Stage,1954-06-16,Yugoslavia,France,1,0,No,No,0,0,Stadion Cornaredo,Lugano,1780,1800,Yugoslavia,Home Win
+WC1954_F2,1954,Group Stage,1954-06-17,Brazil,Mexico,5,0,No,No,0,0,Stadion Hardturm,Zurich,1890,1520,Brazil,Home Win
+WC1954_F3,1954,Group Stage,1954-06-17,West Germany,Turkey,4,1,No,No,0,0,Wankdorf Stadium,Bern,1900,1700,West Germany,Home Win
+WC1954_F4,1954,Group Stage,1954-06-19,Hungary,South Korea,9,0,No,No,0,0,Hardturm,Zurich,1930,1500,Hungary,Home Win
+WC1954_QF1,1954,Quarter-final,1954-06-26,West Germany,Yugoslavia,2,0,No,No,0,0,Hardturm,Zurich,1900,1780,West Germany,Home Win
+WC1954_QF2,1954,Quarter-final,1954-06-26,Hungary,Brazil,4,2,No,No,0,0,Wankdorf,Bern,1930,1890,Hungary,Home Win
+WC1954_SF1,1954,Semi-final,1954-06-30,West Germany,Austria,6,1,No,No,0,0,Hardturm,Basel,1900,1850,West Germany,Home Win
+WC1954_SF2,1954,Semi-final,1954-06-30,Hungary,Uruguay,4,2,No,No,0,0,La Pontaise,Lausanne,1930,1940,Hungary,Home Win
+WC1954_3RD,1954,Third-place,1954-07-03,Austria,Uruguay,3,1,No,No,0,0,Hardturm,Zurich,1850,1940,Austria,Home Win
+WC1954_FINAL,1954,Final,1954-07-04,West Germany,Hungary,3,2,No,No,0,0,Wankdorf,Bern,1900,1930,West Germany,Home Win
+WC1958_FINAL,1958,Final,1958-06-29,Brazil,Sweden,5,2,No,No,0,0,Rasunda Stadium,Stockholm,1950,1810,Brazil,Away Win
+WC1958_SF1,1958,Semi-final,1958-06-24,Brazil,France,5,2,No,No,0,0,Råsunda,Stockholm,1950,1800,Brazil,Home Win
+WC1958_SF2,1958,Semi-final,1958-06-24,Sweden,West Germany,3,1,No,No,0,0,Ullevi,Gothenburg,1810,1900,Sweden,Home Win
+WC1962_FINAL,1962,Final,1962-06-17,Brazil,Czechoslovakia,3,1,No,No,0,0,Estadio Nacional,Santiago,1980,1790,Brazil,Home Win
+WC1966_FINAL,1966,Final,1966-07-30,England,West Germany,4,2,Yes,No,0,0,Wembley Stadium,London,1940,1940,England,Home Win
+WC1966_SF1,1966,Semi-final,1966-07-25,West Germany,Soviet Union,2,1,No,No,0,0,Goodison Park,Liverpool,1940,1900,West Germany,Home Win
+WC1966_SF2,1966,Semi-final,1966-07-26,England,Portugal,2,1,No,No,0,0,Wembley,London,1940,1850,England,Home Win
+WC1970_FINAL,1970,Final,1970-06-21,Brazil,Italy,4,1,No,No,0,0,Estadio Azteca,Mexico City,2000,1940,Brazil,Home Win
+WC1970_SF1,1970,Semi-final,1970-06-17,Italy,West Germany,4,3,Yes,No,0,0,Estadio Azteca,Mexico City,1940,1950,Italy,Home Win
+WC1970_SF2,1970,Semi-final,1970-06-17,Brazil,Uruguay,3,1,No,No,0,0,Estadio Jalisco,Guadalajara,2000,1890,Brazil,Home Win
+WC1974_FINAL,1974,Final,1974-07-07,West Germany,Netherlands,2,1,No,No,0,0,Olympiastadion,Munich,1970,1940,West Germany,Home Win
+WC1974_SF1,1974,Semi-final,1974-07-03,Netherlands,Brazil,2,0,No,No,0,0,Westfalenstadion,Dortmund,1940,1980,Netherlands,Home Win
+WC1974_SF2,1974,Semi-final,1974-07-03,West Germany,Poland,1,0,No,No,0,0,Olympiastadion,Frankfurt,1970,1880,West Germany,Home Win
+WC1978_FINAL,1978,Final,1978-06-25,Argentina,Netherlands,3,1,Yes,No,0,0,Estadio Monumental,Buenos Aires,1960,1950,Argentina,Home Win
+WC1978_SF1,1978,Semi-final,1978-06-13,Argentina,Peru,6,0,No,No,0,0,Estadio Monumental,Buenos Aires,1960,1760,Argentina,Home Win
+WC1978_SF2,1978,Semi-final,1978-06-13,Netherlands,Italy,2,1,No,No,0,0,Estadio José María Minella,Mar del Plata,1950,1950,Netherlands,Home Win
+WC1982_FINAL,1982,Final,1982-07-11,Italy,West Germany,3,1,No,No,0,0,Santiago Bernabéu,Madrid,1970,1960,Italy,Home Win
+WC1982_SF1,1982,Semi-final,1982-07-08,Italy,Poland,2,0,No,No,0,0,Camp Nou,Barcelona,1970,1880,Italy,Home Win
+WC1982_SF2,1982,Semi-final,1982-07-08,West Germany,France,3,3,Yes,Yes,5,4,Estadio Ramón Sánchez Pizjuán,Seville,1960,1900,West Germany,Away Win
+WC1986_FINAL,1986,Final,1986-06-29,Argentina,West Germany,3,2,No,No,0,0,Estadio Azteca,Mexico City,1970,1950,Argentina,Home Win
+WC1986_SF1,1986,Semi-final,1986-06-25,Argentina,Belgium,2,0,No,No,0,0,Estadio Azteca,Mexico City,1970,1840,Argentina,Home Win
+WC1986_SF2,1986,Semi-final,1986-06-25,West Germany,France,2,0,No,No,0,0,Estadio Jalisco,Guadalajara,1950,1920,West Germany,Home Win
+WC1986_QF_MAR,1986,Quarter-final,1986-06-22,Argentina,England,2,1,No,No,0,0,Estadio Azteca,Mexico City,1970,1880,Argentina,Home Win
+WC1990_FINAL,1990,Final,1990-07-08,West Germany,Argentina,1,0,No,No,0,0,Olimpico,Rome,1970,1950,West Germany,Home Win
+WC1990_SF1,1990,Semi-final,1990-07-03,Argentina,Italy,1,1,Yes,Yes,4,3,San Paolo,Naples,1950,1960,Argentina,Draw
+WC1990_SF2,1990,Semi-final,1990-07-04,West Germany,England,1,1,Yes,Yes,4,3,Delle Alpi,Turin,1970,1910,West Germany,Draw
+WC1994_FINAL,1994,Final,1994-07-17,Brazil,Italy,0,0,Yes,Yes,3,2,Rose Bowl,Los Angeles,2000,1940,Brazil,Draw
+WC1994_SF1,1994,Semi-final,1994-07-13,Brazil,Sweden,1,0,No,No,0,0,Rose Bowl,Los Angeles,2000,1850,Brazil,Home Win
+WC1994_SF2,1994,Semi-final,1994-07-13,Italy,Bulgaria,2,1,No,No,0,0,Giants Stadium,New York,1940,1800,Italy,Home Win
+WC1998_FINAL,1998,Final,1998-07-12,France,Brazil,3,0,No,No,0,0,Stade de France,Paris,1970,2010,France,Home Win
+WC1998_SF1,1998,Semi-final,1998-07-07,Brazil,Netherlands,1,1,Yes,Yes,4,2,Stade Vélodrome,Marseille,2010,1940,Brazil,Draw
+WC1998_SF2,1998,Semi-final,1998-07-08,France,Croatia,2,1,No,No,0,0,Stade de France,Paris,1970,1850,France,Home Win
+WC2002_FINAL,2002,Final,2002-06-30,Brazil,Germany,2,0,No,No,0,0,International Stadium,Yokohama,2050,1940,Brazil,Home Win
+WC2002_SF1,2002,Semi-final,2002-06-25,Germany,South Korea,1,0,No,No,0,0,Seoul World Cup Stadium,Seoul,1940,1780,Germany,Away Win
+WC2002_SF2,2002,Semi-final,2002-06-26,Brazil,Turkey,1,0,No,No,0,0,Saitama Stadium,Saitama,2050,1850,Brazil,Home Win
+WC2002_QF_SEN,2002,Quarter-final,2002-06-22,Turkey,Senegal,1,0,Yes,No,0,0,Osaka Municipal CP,Osaka,1850,1680,Turkey,Home Win
+WC2002_QF_ESP,2002,Quarter-final,2002-06-22,Spain,South Korea,0,0,Yes,Yes,3,5,Gwangju World Cup,Gwangju,1920,1780,South Korea,Draw
+WC2002_QF_ENG,2002,Quarter-final,2002-06-21,England,Brazil,1,2,No,No,0,0,Shizuoka Stadium,Shizuoka,1900,2050,Brazil,Away Win
+WC2002_QF_USA,2002,Quarter-final,2002-06-21,United States,Germany,0,1,No,No,0,0,Ulsan Munsu Stadium,Ulsan,1760,1940,Germany,Away Win
+WC2006_FINAL,2006,Final,2006-07-09,Italy,France,1,1,Yes,Yes,5,3,Olympiastadion,Berlin,1970,1960,Italy,Draw
+WC2006_SF1,2006,Semi-final,2006-07-04,Germany,Italy,0,2,Yes,No,0,0,Signal Iduna Park,Dortmund,1960,1970,Italy,Away Win
+WC2006_SF2,2006,Semi-final,2006-07-05,France,Portugal,1,0,No,No,0,0,Allianz Arena,Munich,1960,1920,France,Home Win
+WC2006_QF_ARG,2006,Quarter-final,2006-06-30,Germany,Argentina,1,1,Yes,Yes,4,2,Olympiastadion,Berlin,1960,1960,Germany,Draw
+WC2010_FINAL,2010,Final,2010-07-11,Spain,Netherlands,1,0,Yes,No,0,0,FNB Stadium,Johannesburg,1980,1960,Spain,Home Win
+WC2010_SF1,2010,Semi-final,2010-07-06,Netherlands,Uruguay,3,2,No,No,0,0,Cape Town Stadium,Cape Town,1960,1890,Netherlands,Home Win
+WC2010_SF2,2010,Semi-final,2010-07-07,Spain,Germany,1,0,No,No,0,0,Moses Mabhida,Durban,1980,1960,Spain,Home Win
+WC2010_QF_GHA,2010,Quarter-final,2010-07-02,Uruguay,Ghana,1,1,Yes,Yes,4,2,Soccer City,Johannesburg,1890,1720,Uruguay,Draw
+WC2010_QF_ARG,2010,Quarter-final,2010-07-03,Germany,Argentina,4,0,No,No,0,0,Cape Town Stadium,Cape Town,1960,1960,Germany,Home Win
+WC2010_QF_PAR,2010,Quarter-final,2010-07-03,Spain,Paraguay,1,0,No,No,0,0,Ellis Park,Johannesburg,1980,1770,Spain,Home Win
+WC2010_QF_BRA,2010,Quarter-final,2010-07-02,Netherlands,Brazil,2,1,No,No,0,0,Nelson Mandela Bay,Port Elizabeth,1960,2040,Netherlands,Away Win
+WC2014_FINAL,2014,Final,2014-07-13,Germany,Argentina,1,0,Yes,No,0,0,Maracanã,Rio de Janeiro,1990,1960,Germany,Away Win
+WC2014_SF1,2014,Semi-final,2014-07-08,Brazil,Germany,1,7,No,No,0,0,Estadio Mineirão,Belo Horizonte,2020,1990,Germany,Away Win
+WC2014_SF2,2014,Semi-final,2014-07-09,Netherlands,Argentina,0,0,Yes,Yes,2,4,Arena São Paulo,São Paulo,1960,1960,Argentina,Draw
+WC2014_QF_GER,2014,Quarter-final,2014-07-04,Germany,France,1,0,No,No,0,0,Maracanã,Rio de Janeiro,1990,1960,Germany,Home Win
+WC2014_QF_ARG,2014,Quarter-final,2014-07-05,Argentina,Belgium,1,0,No,No,0,0,Estadio Nacional,Brasilia,1960,1880,Argentina,Home Win
+WC2014_QF_COL,2014,Quarter-final,2014-07-04,Brazil,Colombia,2,1,No,No,0,0,Estadio Castelão,Fortaleza,2020,1860,Brazil,Home Win
+WC2014_QF_NED,2014,Quarter-final,2014-07-05,Netherlands,Costa Rica,0,0,Yes,Yes,4,3,Arena Fonte Nova,Salvador,1960,1750,Netherlands,Draw
+WC2018_FINAL,2018,Final,2018-07-15,France,Croatia,4,2,No,No,0,0,Luzhniki Stadium,Moscow,1980,1880,France,Home Win
+WC2018_SF1,2018,Semi-final,2018-07-10,France,Belgium,1,0,No,No,0,0,Saint Petersburg Stadium,Saint Petersburg,1980,1920,France,Home Win
+WC2018_SF2,2018,Semi-final,2018-07-11,Croatia,England,2,1,Yes,No,0,0,Luzhniki Stadium,Moscow,1880,1900,Croatia,Away Win
+WC2018_QF1,2018,Quarter-final,2018-07-06,France,Uruguay,2,0,No,No,0,0,Nizhny Novgorod Stadium,Nizhny Novgorod,1980,1890,France,Home Win
+WC2018_QF2,2018,Quarter-final,2018-07-06,Brazil,Belgium,1,2,No,No,0,0,Kazan Arena,Kazan,2030,1920,Belgium,Away Win
+WC2018_QF3,2018,Quarter-final,2018-07-07,Sweden,England,0,2,No,No,0,0,Samara Arena,Samara,1840,1900,England,Away Win
+WC2018_QF4,2018,Quarter-final,2018-07-07,Russia,Croatia,2,2,Yes,Yes,3,4,Fisht Stadium,Sochi,1720,1880,Croatia,Draw
+WC2022_FINAL,2022,Final,2022-12-18,Argentina,France,3,3,Yes,Yes,4,2,Lusail Stadium,Lusail,1980,1980,Argentina,Draw
+WC2022_SF1,2022,Semi-final,2022-12-13,Argentina,Croatia,3,0,No,No,0,0,Lusail Stadium,Lusail,1980,1890,Argentina,Home Win
+WC2022_SF2,2022,Semi-final,2022-12-14,France,Morocco,2,0,No,No,0,0,Al Bayt Stadium,Al Khor,1980,1830,France,Home Win
+WC2022_QF1,2022,Quarter-final,2022-12-09,Croatia,Brazil,1,1,Yes,Yes,4,2,Education City Stadium,Al Rayyan,1890,2030,Croatia,Draw
+WC2022_QF2,2022,Quarter-final,2022-12-09,Netherlands,Argentina,2,2,Yes,Yes,3,4,Lusail Stadium,Lusail,1940,1980,Argentina,Draw
+WC2022_QF3,2022,Quarter-final,2022-12-10,Morocco,Portugal,1,0,No,No,0,0,Al Thumama Stadium,Doha,1830,1920,Morocco,Away Win
+WC2022_QF4,2022,Quarter-final,2022-12-10,England,France,1,2,No,No,0,0,Al Bayt Stadium,Al Khor,1930,1980,France,Away Win
+WC2022_R16_ARG,2022,Round of 16,2022-12-03,Argentina,Australia,2,1,No,No,0,0,Ahmad Bin Ali Stadium,Al Rayyan,1980,1730,Argentina,Home Win
+WC2022_R16_FRA,2022,Round of 16,2022-12-04,France,Poland,3,1,No,No,0,0,Al Thumama Stadium,Doha,1980,1810,France,Home Win
+WC2022_R16_ENG,2022,Round of 16,2022-12-04,England,Senegal,3,0,No,No,0,0,Al Bayt Stadium,Al Khor,1930,1780,England,Home Win
+WC2022_R16_NED,2022,Round of 16,2022-12-03,Netherlands,United States,3,1,No,No,0,0,Khalifa International,Doha,1940,1780,Netherlands,Home Win
+WC2022_R16_MAR,2022,Round of 16,2022-12-05,Morocco,Spain,0,0,Yes,Yes,3,0,Education City Stadium,Al Rayyan,1830,1980,Morocco,Draw
+WC2022_R16_CRO,2022,Round of 16,2022-12-05,Croatia,Japan,1,1,Yes,Yes,3,1,Al Janoub Stadium,Al Wakrah,1890,1790,Croatia,Draw
+WC2022_R16_BRA,2022,Round of 16,2022-12-05,Brazil,South Korea,4,1,No,No,0,0,Stadium 974,Doha,2030,1770,Brazil,Home Win
+WC2022_R16_POR,2022,Round of 16,2022-12-06,Portugal,Switzerland,6,1,No,No,0,0,Lusail Stadium,Lusail,1920,1870,Portugal,Home Win

@@ -1,0 +1,62 @@
+team_a,team_b,total_wc_matches,team_a_wins,draws,team_b_wins,team_a_goals,team_b_goals,goal_difference_a,last_wc_meeting_year,last_wc_meeting_stage,last_wc_result,most_famous_match,most_famous_match_score,most_famous_match_year,most_famous_match_stage
+Brazil,Germany,8,4,1,3,18,14,4,2014,Semi-final,Germany won 7-1,"Germany 7-1 Brazil (Mineirazo)","7-1",2014,Semi-final
+Brazil,Argentina,4,2,0,2,7,6,1,2021,Copa (not WC),N/A,"Brazil 3-0 Argentina","3-0",1982,Group Stage
+Brazil,France,3,2,0,1,5,4,1,2006,Quarter-final,France won 1-0,"France 3-0 Brazil (1998 final)","3-0",1998,Final
+Brazil,Italy,4,2,2,0,5,3,2,1994,Final,Brazil won on pens (0-0),"Brazil 4-3 Italy (penalties)","0-0 (4-2p)",1994,Final
+Brazil,Netherlands,4,2,1,1,9,6,3,2010,Quarter-final,Netherlands won 2-1,"Brazil 2-1 Netherlands","2-1",2010,Quarter-final
+Brazil,Sweden,3,3,0,0,14,4,10,1994,Semi-final,Brazil won 1-0,"Brazil 5-2 Sweden","5-2",1958,Final
+Brazil,England,3,2,1,0,5,3,2,2002,Quarter-final,Brazil won 2-1,"Brazil 2-1 England","2-1",2002,Quarter-final
+Brazil,Croatia,2,1,0,1,5,4,1,2022,Quarter-final,Croatia won 1-1 (4-2p),"Croatia 1-1 Brazil (4-2p)","1-1 (4-2p)",2022,Quarter-final
+Brazil,South Korea,3,3,0,0,10,2,8,2022,Round of 16,Brazil won 4-1,"Brazil 4-1 South Korea","4-1",2022,Round of 16
+Brazil,Uruguay,5,3,1,1,10,8,2,1970,Semi-final,Brazil won 3-1,"Uruguay 2-1 Brazil (Maracanazo)","2-1",1950,Final Round
+Argentina,Germany,6,2,1,3,8,10,-2,2014,Final,Germany won 1-0 AET,"Germany 1-0 Argentina (AET)","1-0",2014,Final
+Argentina,France,3,1,1,1,8,9,-1,2022,Final,Argentina won 3-3 (4-2p),"Argentina 3-3 France (4-2p)","3-3 (4-2p)",2022,Final
+Argentina,England,3,2,0,1,5,3,2,1986,Quarter-final,Argentina won 2-1,"Argentina 2-1 England (Hand of God)","2-1",1986,Quarter-final
+Argentina,Netherlands,5,2,2,1,8,7,1,2022,Quarter-final,Argentina won 2-2 (4-3p),"Argentina 3-1 Netherlands","3-1",1978,Final
+Argentina,Italy,2,0,1,1,1,3,-2,1990,Final,West Germany won (not direct),"Italy 3-2 Argentina","3-2",1990,Semi-final
+Argentina,Croatia,2,2,0,0,5,1,4,2022,Semi-final,Argentina won 3-0,"Argentina 3-0 Croatia","3-0",2022,Semi-final
+Argentina,Mexico,3,3,0,0,10,3,7,2022,Group Stage,Argentina won 2-0,"Argentina 6-3 Mexico","6-3",1930,Group Stage
+France,Germany,4,2,1,1,7,7,0,2014,Quarter-final,Germany won 1-0,"West Germany 3-3 France (5-4p)","3-3 (5-4p)",1982,Semi-final
+France,Brazil,3,1,0,2,4,5,-1,2006,Quarter-final,France won 1-0,"France 3-0 Brazil (1998 final)","3-0",1998,Final
+France,Croatia,2,2,0,0,7,3,4,2018,Final,France won 4-2,"France 4-2 Croatia","4-2",2018,Final
+France,England,3,2,0,1,5,3,2,2022,Quarter-final,France won 2-1,"France 2-1 England","2-1",2022,Quarter-final
+France,Portugal,4,2,1,1,4,3,1,2006,Semi-final,France won 1-0,"France 2-1 Portugal","2-1",2006,Semi-final
+France,Morocco,2,2,0,0,4,1,3,2022,Semi-final,France won 2-0,"France 2-0 Morocco","2-0",2022,Semi-final
+Germany,Netherlands,3,2,0,1,5,4,1,1990,Semi-final,Germany won 2-1,"West Germany 2-1 Netherlands (1974 final)","2-1",1974,Final
+Germany,England,5,3,1,1,12,7,5,2010,Round of 16,Germany won 4-1,"West Germany 4-2 England (AET)","4-2",1966,Final
+Germany,Italy,5,2,2,1,7,8,-1,2006,Semi-final,Italy won 2-0 AET,"West Germany 3-4 Italy (AET Battle of the Century)","3-4",1970,Semi-final
+Germany,Croatia,3,2,0,1,5,4,1,2022,Group Stage,Germany lost 1-2,"Germany 2-0 Croatia","2-0",2014,Group Stage
+Germany,Argentina,6,3,1,2,10,8,2,2014,Final,Germany won 1-0 AET,"Germany 1-0 Argentina (AET)","1-0",2014,Final
+Germany,Poland,3,2,0,1,4,1,3,2014,Group Stage,Draw 0-0 (2002),"West Germany 1-0 Poland","1-0",1974,Group Stage
+Spain,Netherlands,3,1,1,1,4,4,0,2014,Group Stage,Spain lost 1-5,"Spain 1-0 Netherlands (AET)","1-0",2010,Final
+Spain,France,5,2,2,1,6,7,-1,2006,Round of 16,France won 3-1,"Spain 2-1 France","2-1",1934,Group Stage
+Spain,Portugal,3,1,2,0,6,5,1,2018,Group Stage,Draw 3-3,"Spain 3-3 Portugal","3-3",2018,Group Stage
+Spain,Germany,3,1,1,1,3,3,0,2010,Semi-final,Spain won 1-0,"Spain 1-0 Germany","1-0",2010,Semi-final
+Spain,England,3,2,0,1,5,3,2,1982,Group Stage,Draw 0-0,"Spain 2-0 England","2-0",1950,Group Stage
+Spain,Italy,3,1,1,1,4,4,0,1994,Quarter-final,Italy won 2-1,"Spain 2-1 Italy","2-1",1994,Quarter-final
+Spain,Morocco,3,1,1,1,1,2,-1,2022,Round of 16,Morocco won 0-0 (3-0p),"Morocco 0-0 Spain (3-0p)","0-0 (3-0p)",2022,Round of 16
+England,Argentina,3,1,0,2,3,5,-2,1998,Round of 16,Argentina won 2-1 (pens),"England 1-2 Argentina (Hand of God game)","1-2",1986,Quarter-final
+England,Portugal,5,2,2,1,6,6,0,2006,Quarter-final,England lost 0-0 (1-3p),"England 1-0 Portugal","1-0",1966,Third-place
+England,Croatia,3,2,0,1,7,5,2,2018,Semi-final,Croatia won 2-1 AET,"England 5-1 Croatia (2021 Euros not WC)","N/A",N/A,N/A
+England,Germany,5,2,1,2,7,12,-5,2010,Round of 16,Germany won 4-1,"England 4-2 Germany (AET 1966 final)","4-2",1966,Final
+Netherlands,Argentina,5,1,2,2,7,8,-1,2022,Quarter-final,Argentina won 2-2 (4-3p),"Netherlands 3-1 Argentina (1978 final)","3-1",1978,Final
+Netherlands,Uruguay,4,2,1,1,8,5,3,2010,Semi-final,Netherlands won 3-2,"Netherlands 3-2 Uruguay","3-2",2010,Semi-final
+Netherlands,Brazil,4,1,1,2,6,9,-3,2010,Quarter-final,Netherlands won 2-1,"Brazil 2-1 Netherlands","2-1",2010,Quarter-final
+Italy,Germany,5,2,2,1,8,7,1,2006,Semi-final,Italy won 2-0 AET,"Italy 4-3 West Germany (AET Game of Century)","4-3",1970,Semi-final
+Italy,Brazil,4,0,2,2,3,5,-2,1994,Final,Brazil won 0-0 (4-2p),"Brazil 3-2 Italy","3-2",1982,Group Stage
+Italy,France,3,1,1,1,4,4,0,2006,Final,Italy won 1-1 (5-3p),"Italy 1-1 France (5-3p Zidane headbutt)","1-1 (5-3p)",2006,Final
+Italy,Argentina,3,1,0,2,3,5,-2,1990,Semi-final,Argentina won 1-1 (4-3p),"West Germany beat Argentina in 1990 final","N/A",N/A,N/A
+Croatia,Brazil,2,1,0,1,4,5,-1,2022,Quarter-final,Croatia won 1-1 (4-2p),"Croatia 1-1 Brazil (4-2p)","1-1 (4-2p)",2022,Quarter-final
+Croatia,England,3,1,0,2,5,7,-2,2018,Semi-final,Croatia won 2-1 AET,"Croatia 2-1 England (AET)","2-1",2018,Semi-final
+Croatia,Argentina,2,0,0,2,1,5,-4,2022,Semi-final,Argentina won 3-0,"Argentina 3-0 Croatia","3-0",2022,Semi-final
+Uruguay,Argentina,4,2,0,2,9,10,-1,1930,Final,Uruguay won 4-2,"Uruguay 4-2 Argentina (first WC final)","4-2",1930,Final
+Uruguay,Brazil,5,2,1,2,8,10,-2,1970,Semi-final,Brazil won 3-1,"Uruguay 2-1 Brazil (Maracanazo)","2-1",1950,Final Round
+Uruguay,Germany,3,0,1,2,4,6,-2,2010,Third-place,Germany won 3-2,"Germany 3-2 Uruguay","3-2",2010,Third-place
+Portugal,Morocco,2,1,0,1,4,3,1,2022,Quarter-final,Morocco won 1-0,"Morocco 1-0 Portugal","1-0",2022,Quarter-final
+Portugal,France,4,1,1,2,3,4,-1,2006,Semi-final,France won 1-0,"France 1-0 Portugal","1-0",2006,Semi-final
+Morocco,Spain,3,1,1,1,2,1,1,2022,Round of 16,Morocco won 0-0 (3-0p),"Morocco 0-0 Spain (3-0p)","0-0 (3-0p)",2022,Round of 16
+Morocco,France,2,0,0,2,0,4,-4,2022,Semi-final,France won 2-0,"France 2-0 Morocco","2-0",2022,Semi-final
+Japan,Belgium,1,0,0,1,2,3,-1,2018,Round of 16,Belgium won 3-2,"Belgium 3-2 Japan (comeback)","3-2",2018,Round of 16
+Japan,Croatia,1,0,0,1,1,1,0,2022,Round of 16,Croatia won 1-1 (3-1p),"Croatia 1-1 Japan (3-1p)","1-1 (3-1p)",2022,Round of 16
+South Korea,Germany,3,1,1,1,3,5,-2,2018,Group Stage,South Korea won 2-0,"South Korea 2-0 Germany","2-0",2018,Group Stage
+Senegal,France,1,0,1,0,0,0,0,2002,Group Stage,Draw — Senegal won in earlier game,"Senegal 1-0 France","1-0",2002,Group Stage
