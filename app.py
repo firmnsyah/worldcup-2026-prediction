@@ -68,7 +68,8 @@ st.markdown(
 .hero {
   background: radial-gradient(120% 160% at 0% 0%, #14532d 0%, #0f3460 55%, #0b1120 100%);
   border: 1px solid #1e293b; border-radius: 18px;
-  padding: 26px 30px 22px; margin-bottom: 14px;
+  padding: 26px 30px 22px; margin-bottom: 24px;
+  margin-top: 28px;
 }
 .hero h1 {margin: 0 0 4px; font-size: 2rem; color: #f8fafc;}
 .hero .sub {color: #94a3b8; font-size: 0.92rem; margin-bottom: 12px;}
